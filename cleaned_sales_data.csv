@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Region,State,Category,Product Name,Quantity,Sales,Profit,Discount,Year,Month
+ORD00001,2024-07-12,Breanna Riley,North,Haryana,Office Supplies,Pen,5,1262.21,107.14,0.03,2024,July
+ORD00002,2024-07-28,Joseph Scott,West,Maharashtra,Technology,Monitor,1,513.79,55.57,0.18,2024,July
+ORD00003,2023-06-13,Kayla Houston,West,Maharashtra,Technology,Monitor,8,2966.87,748.71,0.0,2023,June
+ORD00004,2024-01-25,Dylan Harris,East,Odisha,Office Supplies,Paper,3,1115.8,268.77,0.03,2024,January
+ORD00005,2024-01-23,Michael Jackson,East,Bihar,Technology,Tablet,5,4045.28,940.26,0.16,2024,January
+ORD00006,2023-03-13,Nicole Garner,East,Bihar,Technology,Monitor,10,4432.99,622.43,0.06,2023,March
+ORD00007,2024-01-09,Michael Jackson,East,West Bengal,Technology,Smartphone,4,4339.09,629.3,0.14,2024,January
+ORD00008,2024-10-12,James Vargas,East,West Bengal,Technology,Tablet,5,3524.01,778.41,0.02,2024,October
+ORD00009,2024-07-24,Kenneth Nash,South,Karnataka,Technology,Monitor,8,1928.3,573.44,0.19,2024,July
+ORD00010,2024-08-03,Jonathon Cummings,North,Delhi,Technology,Tablet,1,4034.98,606.42,0.02,2024,August
+ORD00011,2023-09-29,Thomas Bennett,South,Kerala,Office Supplies,Stapler,8,2008.38,559.61,0.14,2023,September
+ORD00012,2023-05-22,Daniel Harrison,East,Bihar,Technology,Smartphone,10,2170.75,425.21,0.11,2023,May
+ORD00013,2024-09-02,Timothy Ingram,North,Delhi,Office Supplies,Paper,2,806.56,72.59,0.2,2024,September
+ORD00014,2023-01-12,Lisa Richardson,West,Rajasthan,Technology,Printer,8,2669.12,781.44,0.26,2023,January
+ORD00015,2023-09-27,Arthur Hill,East,Bihar,Office Supplies,Pen,6,602.18,95.56,0.14,2023,September
+ORD00016,2024-01-18,David Fisher,North,Haryana,Office Supplies,Notebook,5,4216.26,745.92,0.06,2024,January
+ORD00017,2023-11-11,Michael Wilkerson,North,Haryana,Technology,Monitor,6,2468.6,192.47,0.11,2023,November
+ORD00018,2024-06-29,Jill Arnold,South,Kerala,Technology,Laptop,2,473.98,81.29,0.02,2024,June
+ORD00019,2023-08-05,Hayden Powell,West,Rajasthan,Technology,Smartphone,3,1362.03,365.17,0.13,2023,August
+ORD00020,2023-08-19,Elizabeth Perez,East,Odisha,Office Supplies,Notebook,6,2218.6,398.0,0.04,2023,August
+ORD00021,2024-10-08,Tasha Buchanan,North,Haryana,Technology,Tablet,9,1189.07,124.92,0.02,2024,October
+ORD00022,2023-08-08,Cory Thomas,North,Delhi,Technology,Smartphone,6,400.74,43.88,0.2,2023,August
+ORD00023,2024-03-17,Robert Olson,West,Maharashtra,Office Supplies,Notebook,8,4047.11,395.01,0.03,2024,March
+ORD00024,2024-02-17,Shelly Moore,West,Gujarat,Furniture,Bookcase,1,3383.15,1001.55,0.03,2024,February
+ORD00025,2023-10-13,Christopher West,North,Delhi,Office Supplies,Stapler,4,991.53,160.78,0.13,2023,October
+ORD00026,2023-01-16,Margaret Ochoa,North,Punjab,Furniture,Desk,9,534.65,113.9,0.16,2023,January
+ORD00027,2023-06-18,Erin Brown,South,Tamil Nadu,Technology,Smartphone,8,2432.72,647.5,0.27,2023,June
+ORD00028,2024-07-23,Debra Turner,West,Gujarat,Furniture,Chair,8,1461.98,327.7,0.22,2024,July
+ORD00029,2023-03-04,Thomas Carpenter,South,Karnataka,Office Supplies,Paper,5,1127.62,72.87,0.22,2023,March
+ORD00030,2023-02-28,Holly Gonzales,North,Delhi,Office Supplies,Stapler,10,2410.1,674.46,0.16,2023,February
+ORD00031,2024-08-06,Alexandra Rocha,South,Karnataka,Office Supplies,Pen,10,386.41,102.57,0.12,2024,August
+ORD00032,2023-09-25,Jeanette Grimes,North,Haryana,Technology,Monitor,2,2125.16,416.36,0.16,2023,September
+ORD00033,2023-03-16,Sarah Juarez,South,Tamil Nadu,Technology,Tablet,7,697.85,147.51,0.14,2023,March
+ORD00034,2023-03-12,Clayton Johnston,North,Delhi,Technology,Printer,9,1105.11,128.52,0.28,2023,March
+ORD00035,2024-10-31,Jennifer Woods,East,West Bengal,Technology,Tablet,8,4177.04,943.53,0.18,2024,October
+ORD00036,2023-04-20,Daniel Patel,East,Bihar,Office Supplies,Pen,2,4697.7,392.6,0.03,2023,April
+ORD00037,2024-10-11,Devon Dixon,South,Tamil Nadu,Office Supplies,Marker,5,3043.91,698.28,0.06,2024,October
+ORD00038,2023-01-04,Gary Spears,West,Gujarat,Furniture,Table,1,506.88,79.02,0.08,2023,January
+ORD00039,2023-03-19,Jay Mendoza,East,West Bengal,Furniture,Desk,8,2780.82,436.37,0.0,2023,March
+ORD00040,2024-01-09,James Mcdaniel,North,Punjab,Office Supplies,Notebook,10,2785.0,438.49,0.01,2024,January
+ORD00041,2024-02-21,Daniel Payne,South,Kerala,Technology,Tablet,4,3351.32,463.89,0.17,2024,February
+ORD00042,2023-12-07,Kelly Serrano,South,Karnataka,Office Supplies,Notebook,3,4413.01,248.0,0.22,2023,December
+ORD00043,2023-07-24,Mark Jones,East,West Bengal,Furniture,Desk,2,1943.58,116.0,0.14,2023,July
+ORD00044,2023-03-13,Shannon Mcneil,East,West Bengal,Furniture,Sofa,4,167.14,16.43,0.1,2023,March
+ORD00045,2023-09-25,Mary Schmidt,West,Rajasthan,Furniture,Sofa,9,1689.19,96.12,0.26,2023,September
+ORD00046,2024-03-22,Kristine Walker,East,West Bengal,Technology,Monitor,2,3003.03,409.68,0.24,2024,March
+ORD00047,2024-06-16,Mitchell Moreno,North,Punjab,Office Supplies,Marker,10,990.89,60.54,0.13,2024,June
+ORD00048,2024-11-10,Brian Matthews,East,Odisha,Office Supplies,Notebook,2,4746.93,1330.06,0.19,2024,November
+ORD00049,2023-07-16,Mark Lee,East,Bihar,Technology,Tablet,7,1664.61,373.38,0.17,2023,July
+ORD00050,2023-10-21,Jamie Chapman,South,Kerala,Furniture,Bookcase,10,1539.7,287.9,0.0,2023,October
+ORD00051,2023-06-23,Crystal Jensen,East,Odisha,Technology,Printer,8,2238.69,231.54,0.14,2023,June
+ORD00052,2024-11-19,Alex Thomas,East,Bihar,Office Supplies,Pen,10,1709.18,435.17,0.23,2024,November
+ORD00053,2023-03-16,Chloe Thomas,South,Karnataka,Furniture,Desk,1,278.76,82.51,0.18,2023,March
+ORD00054,2023-01-06,Joshua Owens,South,Kerala,Furniture,Bookcase,7,2497.17,277.18,0.2,2023,January
+ORD00055,2023-05-05,Robert Woods,South,Karnataka,Technology,Printer,9,2349.52,444.89,0.28,2023,May
+ORD00056,2024-03-29,Robert Buck,West,Rajasthan,Furniture,Desk,9,4940.07,982.4,0.29,2024,March
+ORD00057,2023-09-23,Anne White,West,Rajasthan,Office Supplies,Marker,8,4491.18,1059.53,0.14,2023,September
+ORD00058,2023-10-06,Diana Daugherty,West,Rajasthan,Technology,Tablet,4,1409.26,97.76,0.09,2023,October
+ORD00059,2023-03-07,Laura Russell,North,Delhi,Furniture,Sofa,3,1194.74,267.01,0.21,2023,March
+ORD00060,2024-08-21,Diana Turner,East,Bihar,Furniture,Bookcase,8,2108.08,214.41,0.13,2024,August
+ORD00061,2024-03-05,Dakota Walton,West,Gujarat,Office Supplies,Pen,1,4716.57,587.94,0.12,2024,March
+ORD00062,2024-11-15,James Evans,South,Tamil Nadu,Office Supplies,Marker,4,1401.03,240.15,0.12,2024,November
+ORD00063,2024-08-29,Stephanie Hunt,South,Tamil Nadu,Office Supplies,Paper,3,4904.57,900.14,0.27,2024,August
+ORD00064,2024-01-24,Cindy Mills,North,Haryana,Office Supplies,Pen,7,721.71,119.39,0.02,2024,January
+ORD00065,2024-03-07,Rebecca Shannon,West,Gujarat,Furniture,Desk,6,3818.09,552.79,0.23,2024,March
+ORD00066,2023-03-12,Brandi Tyler,West,Maharashtra,Furniture,Chair,9,307.82,88.65,0.07,2023,March
+ORD00067,2024-04-29,Andrew Johnson,North,Delhi,Office Supplies,Pen,4,4204.18,863.26,0.07,2024,April
+ORD00068,2023-04-28,Marcus Orozco,South,Tamil Nadu,Office Supplies,Pen,5,3846.15,353.64,0.18,2023,April
+ORD00069,2024-01-20,Rebecca Fisher,North,Haryana,Technology,Tablet,1,4647.99,901.47,0.27,2024,January
+ORD00070,2024-09-06,Linda Montgomery,North,Haryana,Furniture,Desk,4,554.41,134.79,0.26,2024,September
+ORD00071,2023-12-16,Carlos Ford,North,Punjab,Technology,Monitor,9,2170.47,309.6,0.15,2023,December
+ORD00072,2024-12-25,Christopher Roberts,West,Maharashtra,Technology,Printer,7,4805.9,1003.93,0.25,2024,December
+ORD00073,2024-07-05,Laura Cantrell,South,Kerala,Technology,Printer,9,4829.09,567.52,0.24,2024,July
+ORD00074,2023-03-30,Kellie Walton,West,Rajasthan,Furniture,Bookcase,10,1378.56,362.46,0.25,2023,March
+ORD00075,2023-11-29,Lauren Steele,South,Tamil Nadu,Furniture,Bookcase,10,3071.14,444.54,0.01,2023,November
+ORD00076,2023-10-10,Bailey Day,South,Tamil Nadu,Technology,Printer,5,1734.68,468.5,0.21,2023,October
+ORD00077,2024-12-08,Jerry Parker,South,Karnataka,Office Supplies,Pen,4,3614.37,622.19,0.23,2024,December
+ORD00078,2024-11-10,Wesley Long,West,Maharashtra,Furniture,Bookcase,2,1506.47,227.63,0.07,2024,November
+ORD00079,2023-12-27,Robert Craig,West,Rajasthan,Office Supplies,Stapler,9,1751.6,524.0,0.17,2023,December
+ORD00080,2024-07-02,Rodney Waters,East,Odisha,Office Supplies,Paper,5,1191.16,274.35,0.09,2024,July
+ORD00081,2024-09-03,Joseph Curry,South,Karnataka,Office Supplies,Notebook,8,1418.67,280.04,0.23,2024,September
+ORD00082,2023-05-10,Daisy Lyons,South,Tamil Nadu,Furniture,Chair,4,1836.36,230.59,0.21,2023,May
+ORD00083,2024-05-17,Joseph Clark,North,Haryana,Furniture,Chair,5,3502.22,285.68,0.26,2024,May
+ORD00084,2024-05-04,Annette George,East,Odisha,Technology,Laptop,8,2230.32,214.31,0.02,2024,May
+ORD00085,2024-07-30,Breanna Ramos,West,Gujarat,Technology,Laptop,2,2906.25,644.06,0.05,2024,July
+ORD00086,2023-08-20,Terry Parker,South,Karnataka,Furniture,Chair,9,3834.0,772.86,0.24,2023,August
+ORD00087,2024-09-27,Manuel Barker,West,Gujarat,Office Supplies,Paper,5,4307.82,1281.61,0.09,2024,September
+ORD00088,2024-07-19,Jordan Lambert,North,Delhi,Technology,Monitor,4,1360.0,95.6,0.07,2024,July
+ORD00089,2023-10-23,Jennifer Larson,North,Punjab,Technology,Smartphone,8,3462.39,579.87,0.01,2023,October
+ORD00090,2024-11-08,Melissa Bates,West,Maharashtra,Office Supplies,Stapler,4,4623.36,1141.77,0.19,2024,November
+ORD00091,2023-03-15,Jason Logan,North,Haryana,Technology,Printer,4,3255.79,902.19,0.25,2023,March
+ORD00092,2023-11-08,Steven Hall,East,Bihar,Technology,Smartphone,10,4609.9,736.61,0.14,2023,November
+ORD00093,2024-03-18,Mark Mitchell,East,Bihar,Office Supplies,Paper,9,2494.29,174.88,0.01,2024,March
+ORD00094,2024-08-24,Samuel Lee,East,West Bengal,Office Supplies,Stapler,2,1183.18,258.61,0.26,2024,August
+ORD00095,2024-08-22,Samantha Hicks,North,Delhi,Technology,Tablet,8,2618.87,420.48,0.08,2024,August
+ORD00096,2023-06-14,Heather Velazquez,North,Punjab,Furniture,Bookcase,6,2071.32,269.82,0.03,2023,June
+ORD00097,2023-11-19,Brandon Gonzalez,West,Gujarat,Furniture,Bookcase,7,4077.15,764.56,0.14,2023,November
+ORD00098,2024-04-18,Amanda Davis,North,Punjab,Furniture,Sofa,9,4133.39,207.86,0.26,2024,April
+ORD00099,2023-02-22,Kathleen Cooper,South,Kerala,Furniture,Chair,6,3132.04,546.93,0.13,2023,February
+ORD00100,2024-10-07,Katherine Miller,South,Tamil Nadu,Technology,Tablet,8,4410.19,754.93,0.01,2024,October
+ORD00101,2023-04-27,Mr. Timothy Frazier,South,Tamil Nadu,Office Supplies,Notebook,9,117.69,17.89,0.07,2023,April
+ORD00102,2024-04-28,Charles Vasquez,South,Tamil Nadu,Furniture,Chair,5,2568.92,304.05,0.25,2024,April
+ORD00103,2023-03-13,Christopher Haynes,South,Tamil Nadu,Technology,Printer,4,4613.25,816.82,0.26,2023,March
+ORD00104,2024-08-24,Donna Williams,East,Bihar,Furniture,Bookcase,5,4111.72,496.32,0.09,2024,August
+ORD00105,2024-01-22,George Blake,South,Tamil Nadu,Office Supplies,Paper,9,2447.49,325.79,0.23,2024,January
+ORD00106,2023-02-14,Mary Petty,South,Kerala,Furniture,Sofa,4,2880.4,312.21,0.23,2023,February
+ORD00107,2024-08-27,Cynthia Summers,West,Gujarat,Furniture,Bookcase,3,2501.88,148.25,0.15,2024,August
+ORD00108,2024-11-01,Ricardo Bowers,West,Maharashtra,Furniture,Chair,9,4556.69,245.32,0.04,2024,November
+ORD00109,2023-12-03,Brandon Mejia,West,Gujarat,Technology,Laptop,6,3135.13,468.3,0.02,2023,December
+ORD00110,2024-10-08,Anthony Davis,West,Gujarat,Office Supplies,Marker,8,4368.3,257.62,0.02,2024,October
+ORD00111,2023-04-13,Cynthia Douglas,South,Kerala,Office Supplies,Stapler,2,2198.16,164.01,0.19,2023,April
+ORD00112,2024-03-17,Sheena Griffin,East,West Bengal,Furniture,Desk,1,1655.65,106.01,0.11,2024,March
+ORD00113,2024-09-26,Veronica Lowe,West,Rajasthan,Technology,Smartphone,3,891.42,62.17,0.26,2024,September
+ORD00114,2024-11-13,Lindsay Guzman,West,Rajasthan,Office Supplies,Notebook,3,1199.33,251.23,0.14,2024,November
+ORD00115,2024-08-24,Hunter Foley,East,Bihar,Technology,Printer,9,831.98,133.48,0.1,2024,August
+ORD00116,2023-08-31,Mary Flores,East,Odisha,Furniture,Bookcase,5,1036.12,151.45,0.14,2023,August
+ORD00117,2024-11-05,Courtney Gardner,East,Bihar,Furniture,Table,5,4963.83,614.56,0.29,2024,November
+ORD00118,2023-10-21,Darryl Greene Jr.,North,Haryana,Furniture,Sofa,1,4557.55,1076.92,0.25,2023,October
+ORD00119,2024-11-06,Curtis Conley,East,West Bengal,Technology,Monitor,4,3123.41,685.4,0.22,2024,November
+ORD00120,2023-05-15,Jason Graves,North,Haryana,Office Supplies,Notebook,1,1579.22,253.0,0.17,2023,May
+ORD00121,2024-01-10,Erica Terry,East,Bihar,Technology,Tablet,7,919.42,76.35,0.16,2024,January
+ORD00122,2023-10-30,Michael Waters,East,West Bengal,Office Supplies,Marker,5,4574.54,1308.53,0.29,2023,October
+ORD00123,2024-11-21,Natalie Matthews,North,Punjab,Office Supplies,Stapler,2,746.75,217.77,0.26,2024,November
+ORD00124,2024-11-19,Mary Smith,East,West Bengal,Furniture,Table,7,118.9,21.89,0.14,2024,November
+ORD00125,2024-07-28,Daniel Patel,West,Rajasthan,Office Supplies,Stapler,6,586.31,63.59,0.01,2024,July
+ORD00126,2024-10-26,Cody Smith,South,Kerala,Furniture,Table,2,3195.25,530.63,0.21,2024,October
+ORD00127,2024-07-04,Cody Hayes,South,Karnataka,Furniture,Chair,1,1556.6,269.53,0.03,2024,July
+ORD00128,2024-02-29,Margaret Juarez,West,Gujarat,Technology,Printer,9,2124.68,500.51,0.05,2024,February
+ORD00129,2023-08-11,Jerry King,West,Rajasthan,Office Supplies,Pen,7,4698.31,563.49,0.21,2023,August
+ORD00130,2024-10-22,Kenneth Morrison,South,Tamil Nadu,Furniture,Bookcase,2,4905.59,695.78,0.27,2024,October
+ORD00131,2023-04-04,Amanda Ayala,West,Gujarat,Furniture,Chair,4,4842.62,1391.06,0.25,2023,April
+ORD00132,2023-03-12,Kristin Clay,North,Delhi,Office Supplies,Notebook,6,1255.67,102.31,0.17,2023,March
+ORD00133,2023-10-11,Lori Sanchez,South,Karnataka,Office Supplies,Notebook,6,3883.12,959.76,0.18,2023,October
+ORD00134,2023-09-01,Katherine Andersen,East,West Bengal,Technology,Smartphone,2,3322.24,187.52,0.0,2023,September
+ORD00135,2023-03-07,Mike Gibson,North,Delhi,Office Supplies,Stapler,5,309.38,72.84,0.16,2023,March
+ORD00136,2023-02-14,Ms. Kimberly Montoya,East,Bihar,Furniture,Bookcase,10,589.82,103.78,0.28,2023,February
+ORD00137,2024-12-03,Susan Payne,East,Odisha,Office Supplies,Marker,1,351.09,59.6,0.12,2024,December
+ORD00138,2024-10-01,Angela Craig,West,Maharashtra,Technology,Printer,2,1644.45,143.2,0.04,2024,October
+ORD00139,2023-04-12,Hunter Leblanc,East,Odisha,Office Supplies,Marker,10,2676.26,437.38,0.18,2023,April
+ORD00140,2024-02-13,Robert Ramirez,South,Tamil Nadu,Office Supplies,Pen,8,4446.05,682.26,0.25,2024,February
+ORD00141,2024-04-30,George Rosario,East,Odisha,Furniture,Chair,6,3342.28,479.87,0.05,2024,April
+ORD00142,2024-07-23,Pamela Reynolds,North,Delhi,Technology,Laptop,7,527.99,123.92,0.24,2024,July
+ORD00143,2024-03-09,Justin Hernandez,East,Bihar,Technology,Monitor,2,2083.5,559.22,0.28,2024,March
+ORD00144,2024-11-03,Kevin Medina,East,Bihar,Office Supplies,Pen,5,1790.65,348.24,0.06,2024,November
+ORD00145,2024-03-15,Mr. Zachary Wiley,North,Punjab,Furniture,Desk,9,1869.43,449.88,0.17,2024,March
+ORD00146,2023-12-14,Bernard Myers,North,Haryana,Office Supplies,Marker,5,193.32,22.87,0.23,2023,December
+ORD00147,2023-02-01,Glenn Tucker,South,Karnataka,Furniture,Chair,10,3303.86,222.67,0.22,2023,February
+ORD00148,2023-11-29,Daniel Hunt,South,Tamil Nadu,Technology,Monitor,7,2295.55,205.11,0.09,2023,November
+ORD00149,2023-10-06,Maria Young,North,Delhi,Office Supplies,Marker,3,829.18,169.53,0.2,2023,October
+ORD00150,2023-12-20,Thomas Nelson,West,Rajasthan,Furniture,Bookcase,8,2100.21,218.2,0.15,2023,December
+ORD00151,2024-02-09,Steve Gomez,East,Bihar,Furniture,Chair,10,2458.83,533.03,0.01,2024,February
+ORD00152,2023-10-24,Jennifer Obrien,North,Delhi,Office Supplies,Pen,5,4729.35,1143.73,0.23,2023,October
+ORD00153,2024-05-27,Cody Watson,North,Punjab,Furniture,Chair,7,919.69,133.4,0.21,2024,May
+ORD00154,2023-11-17,Ronald Morris,North,Punjab,Office Supplies,Stapler,1,2209.29,364.4,0.02,2023,November
+ORD00155,2023-06-25,Diane Hughes,West,Rajasthan,Office Supplies,Paper,7,1483.1,224.33,0.29,2023,June
+ORD00156,2024-06-20,Samantha Price,East,West Bengal,Office Supplies,Paper,7,4230.2,468.83,0.18,2024,June
+ORD00157,2024-10-10,Steven Pollard,East,Bihar,Technology,Printer,6,1146.78,280.71,0.02,2024,October
+ORD00158,2023-08-30,Darrell Henson,South,Tamil Nadu,Technology,Monitor,6,3650.53,929.93,0.24,2023,August
+ORD00159,2023-07-01,Adam Patterson,East,West Bengal,Technology,Smartphone,3,3031.87,727.81,0.2,2023,July
+ORD00160,2024-10-12,Sarah Watson,West,Rajasthan,Office Supplies,Paper,10,2272.08,638.54,0.17,2024,October
+ORD00161,2023-10-09,Jessica Edwards,East,West Bengal,Office Supplies,Stapler,8,388.02,62.3,0.09,2023,October
+ORD00162,2023-10-21,Nathan Jacobs,East,Bihar,Office Supplies,Pen,2,1586.52,258.57,0.02,2023,October
+ORD00163,2024-04-05,Susan Morales,West,Gujarat,Technology,Laptop,10,2793.87,692.75,0.27,2024,April
+ORD00164,2023-12-18,Lisa Castaneda MD,East,Bihar,Office Supplies,Notebook,8,2531.77,732.77,0.14,2023,December
+ORD00165,2024-09-16,Mr. Timothy Mendoza,South,Karnataka,Office Supplies,Pen,4,3552.73,1057.81,0.16,2024,September
+ORD00166,2024-10-08,Amanda Camacho,East,Odisha,Technology,Tablet,7,2073.41,279.06,0.18,2024,October
+ORD00167,2024-11-03,Anna Smith,North,Punjab,Office Supplies,Stapler,2,2811.92,412.34,0.08,2024,November
+ORD00168,2024-11-02,Colton Scott,East,West Bengal,Office Supplies,Notebook,10,3334.88,931.05,0.09,2024,November
+ORD00169,2023-05-11,Jake Mitchell,South,Kerala,Office Supplies,Paper,2,1582.43,228.14,0.24,2023,May
+ORD00170,2023-08-08,Stephanie Calderon,North,Haryana,Office Supplies,Marker,7,2567.02,140.05,0.09,2023,August
+ORD00171,2024-06-03,Mark Dennis,South,Karnataka,Furniture,Bookcase,3,816.98,101.26,0.24,2024,June
+ORD00172,2023-06-07,Taylor Simmons,North,Haryana,Office Supplies,Marker,6,4388.14,897.41,0.18,2023,June
+ORD00173,2024-03-30,Eric Hill,South,Kerala,Technology,Smartphone,8,266.28,37.57,0.22,2024,March
+ORD00174,2023-07-18,Audrey Jones,West,Maharashtra,Office Supplies,Stapler,9,1233.88,359.55,0.24,2023,July
+ORD00175,2023-06-15,Erica Ballard,West,Gujarat,Furniture,Table,5,3901.71,685.63,0.13,2023,June
+ORD00176,2023-04-16,Morgan Moore,South,Tamil Nadu,Technology,Monitor,1,3223.84,865.7,0.17,2023,April
+ORD00177,2023-05-31,Jose Day,North,Punjab,Office Supplies,Marker,2,3827.43,452.39,0.27,2023,May
+ORD00178,2024-01-18,Lee Morris,South,Tamil Nadu,Furniture,Chair,6,4655.84,715.72,0.12,2024,January
+ORD00179,2024-10-27,Elizabeth Duncan,North,Punjab,Technology,Printer,4,189.53,53.58,0.25,2024,October
+ORD00180,2024-12-23,Jonathan Fields,South,Karnataka,Furniture,Desk,5,4591.11,771.83,0.25,2024,December
+ORD00181,2024-09-15,George Carr,North,Delhi,Furniture,Bookcase,1,1316.82,340.72,0.16,2024,September
+ORD00182,2024-09-29,Charles Garcia,North,Punjab,Office Supplies,Paper,4,1540.7,95.43,0.13,2024,September
+ORD00183,2023-05-28,Zachary Atkinson,North,Punjab,Furniture,Chair,10,2703.47,562.29,0.17,2023,May
+ORD00184,2023-03-29,Olivia Fisher,North,Haryana,Furniture,Bookcase,6,1240.79,191.26,0.2,2023,March
+ORD00185,2024-02-04,Hannah Moore,North,Haryana,Office Supplies,Stapler,9,2561.27,760.91,0.17,2024,February
+ORD00186,2023-09-04,David Steele,West,Gujarat,Furniture,Chair,5,3749.22,522.17,0.02,2023,September
+ORD00187,2024-12-02,Brandon Carr,East,West Bengal,Office Supplies,Pen,1,1793.88,241.52,0.19,2024,December
+ORD00188,2023-07-26,Lisa Brewer,South,Karnataka,Furniture,Bookcase,2,3594.42,1027.65,0.01,2023,July
+ORD00189,2023-09-17,Sheila Lopez,North,Punjab,Technology,Smartphone,5,2601.15,773.27,0.16,2023,September
+ORD00190,2024-01-12,Jimmy Martinez,East,Odisha,Technology,Smartphone,1,4335.7,576.57,0.04,2024,January
+ORD00191,2024-06-15,Carl Salazar DDS,West,Gujarat,Furniture,Bookcase,6,4869.93,847.62,0.15,2024,June
+ORD00192,2023-11-25,Kelsey Matthews,West,Maharashtra,Furniture,Chair,7,3032.14,774.97,0.16,2023,November
+ORD00193,2024-12-07,Jesse Delacruz,East,Bihar,Technology,Laptop,5,1567.15,314.46,0.13,2024,December
+ORD00194,2023-02-28,Hannah Ellis,West,Maharashtra,Furniture,Sofa,6,3093.51,491.05,0.19,2023,February
+ORD00195,2024-03-24,Sarah Davis,East,Bihar,Technology,Printer,3,4766.31,408.45,0.18,2024,March
+ORD00196,2023-06-07,Travis Brown,North,Delhi,Technology,Smartphone,6,1842.65,529.52,0.01,2023,June
+ORD00197,2024-02-12,Megan Martin,East,Odisha,Office Supplies,Paper,8,3827.27,740.5,0.16,2024,February
+ORD00198,2024-07-29,Andrew Parsons,South,Karnataka,Furniture,Sofa,1,3691.59,645.15,0.12,2024,July
+ORD00199,2024-05-17,Isaac White,East,Bihar,Technology,Tablet,8,1112.12,225.73,0.21,2024,May
+ORD00200,2024-11-29,Amanda Fowler,South,Karnataka,Technology,Laptop,8,904.65,206.57,0.3,2024,November
+ORD00201,2024-12-27,Randall Ferguson,North,Haryana,Furniture,Sofa,9,1487.29,185.9,0.05,2024,December
+ORD00202,2024-05-20,Teresa Howard,East,Bihar,Office Supplies,Notebook,4,650.74,65.23,0.04,2024,May
+ORD00203,2024-02-12,Heather Cook,East,Odisha,Technology,Tablet,9,692.37,187.67,0.02,2024,February
+ORD00204,2024-04-05,Michael Douglas,West,Gujarat,Office Supplies,Paper,10,415.07,121.65,0.19,2024,April
+ORD00205,2024-03-19,Alyssa Smith,East,West Bengal,Furniture,Table,9,3216.98,307.19,0.29,2024,March
+ORD00206,2023-08-19,Sheryl Castillo,North,Haryana,Office Supplies,Pen,3,1555.42,140.75,0.28,2023,August
+ORD00207,2024-10-02,Mike Price,East,West Bengal,Furniture,Table,5,1021.69,295.36,0.08,2024,October
+ORD00208,2024-10-01,Dr. Dan Jackson MD,North,Haryana,Furniture,Table,3,2979.45,581.47,0.05,2024,October
+ORD00209,2024-10-18,Sharon Stokes,East,Bihar,Office Supplies,Marker,1,4134.92,236.08,0.01,2024,October
+ORD00210,2024-07-12,Vincent Rodriguez,South,Kerala,Office Supplies,Stapler,7,3109.64,179.03,0.27,2024,July
+ORD00211,2024-03-26,Ethan Wagner,West,Maharashtra,Furniture,Sofa,7,1522.3,103.89,0.02,2024,March
+ORD00212,2023-12-20,Jeremy Shaw,West,Maharashtra,Furniture,Bookcase,6,3052.97,391.22,0.22,2023,December
+ORD00213,2024-04-05,Francisco Adkins,East,Bihar,Furniture,Desk,9,575.61,63.57,0.04,2024,April
+ORD00214,2023-06-13,Angela Reyes,North,Delhi,Technology,Smartphone,5,4729.66,1258.28,0.13,2023,June
+ORD00215,2023-11-12,James Herrera,East,West Bengal,Furniture,Table,3,2516.41,449.64,0.15,2023,November
+ORD00216,2023-02-19,Robert Giles,North,Punjab,Furniture,Chair,9,2313.29,254.88,0.18,2023,February
+ORD00217,2023-05-18,Heather Scott,West,Rajasthan,Technology,Tablet,8,1464.45,76.22,0.03,2023,May
+ORD00218,2024-07-20,Christopher Wagner,West,Gujarat,Furniture,Sofa,1,2032.88,391.47,0.06,2024,July
+ORD00219,2024-11-27,Sheila Bailey,West,Rajasthan,Furniture,Chair,8,3833.8,459.79,0.3,2024,November
+ORD00220,2024-01-10,Christopher Shaw,South,Karnataka,Office Supplies,Pen,7,1897.33,562.93,0.17,2024,January
+ORD00221,2024-04-30,Pam Montes,West,Rajasthan,Technology,Smartphone,1,274.25,23.11,0.1,2024,April
+ORD00222,2024-02-07,Justin Ortiz,South,Kerala,Office Supplies,Paper,9,741.92,209.85,0.1,2024,February
+ORD00223,2023-01-18,Angela Cox,East,Bihar,Office Supplies,Stapler,9,2685.08,610.01,0.09,2023,January
+ORD00224,2024-10-06,Anita Robinson,North,Punjab,Furniture,Sofa,10,1573.01,432.09,0.26,2024,October
+ORD00225,2023-06-24,Zachary Jackson,West,Gujarat,Technology,Monitor,10,2909.29,670.16,0.18,2023,June
+ORD00226,2023-01-20,Christopher Rivera,West,Maharashtra,Office Supplies,Marker,4,206.27,59.21,0.03,2023,January
+ORD00227,2024-04-27,Curtis Burke,West,Maharashtra,Furniture,Sofa,7,3467.98,529.19,0.23,2024,April
+ORD00228,2024-01-21,Anthony Richards,South,Kerala,Office Supplies,Pen,4,2826.39,846.59,0.14,2024,January
+ORD00229,2024-11-28,Allen Robertson,West,Rajasthan,Furniture,Desk,6,2754.05,603.05,0.26,2024,November
+ORD00230,2023-11-01,Matthew Wilson,West,Maharashtra,Office Supplies,Stapler,4,1431.08,178.35,0.28,2023,November
+ORD00231,2023-10-08,Deborah Lopez,West,Gujarat,Furniture,Desk,8,1776.58,503.53,0.24,2023,October
+ORD00232,2023-10-22,Mitchell Richardson,West,Gujarat,Furniture,Chair,6,4775.31,1199.34,0.09,2023,October
+ORD00233,2023-10-05,Michael Carpenter,East,Odisha,Office Supplies,Pen,5,3749.33,388.04,0.25,2023,October
+ORD00234,2024-06-27,Audrey Ellis,South,Karnataka,Office Supplies,Stapler,10,3717.41,408.25,0.02,2024,June
+ORD00235,2023-05-21,Luis Simmons,North,Delhi,Technology,Smartphone,7,1684.95,283.24,0.2,2023,May
+ORD00236,2023-11-25,Logan Cunningham,South,Tamil Nadu,Technology,Monitor,8,2413.37,241.01,0.29,2023,November
+ORD00237,2023-02-08,Paige Ward,North,Haryana,Furniture,Chair,10,1199.49,281.49,0.26,2023,February
+ORD00238,2023-10-24,Carol Oneill,South,Karnataka,Technology,Printer,7,3950.41,381.52,0.22,2023,October
+ORD00239,2024-10-18,Stacey Cooper,East,Bihar,Technology,Laptop,10,581.14,171.87,0.09,2024,October
+ORD00240,2023-06-16,Jeff Gibson,West,Maharashtra,Office Supplies,Marker,9,2366.7,232.42,0.03,2023,June
+ORD00241,2024-11-21,Haley Bradshaw,East,Bihar,Office Supplies,Paper,3,119.72,16.08,0.09,2024,November
+ORD00242,2023-05-24,Henry Gutierrez,West,Gujarat,Technology,Smartphone,9,1673.24,251.33,0.03,2023,May
+ORD00243,2023-12-04,Scott Johnson,South,Karnataka,Furniture,Sofa,5,1948.69,315.07,0.08,2023,December
+ORD00244,2023-11-11,Juan Lutz,North,Punjab,Furniture,Table,6,3479.2,228.0,0.04,2023,November
+ORD00245,2023-08-15,Julie Welch,East,Bihar,Technology,Printer,2,3211.62,915.82,0.11,2023,August
+ORD00246,2024-07-16,Dana Porter,West,Maharashtra,Technology,Smartphone,8,3751.29,755.64,0.12,2024,July
+ORD00247,2024-12-21,Andrea Richardson,South,Karnataka,Furniture,Table,10,4372.02,308.09,0.13,2024,December
+ORD00248,2023-06-18,William Patterson,North,Delhi,Furniture,Chair,9,4519.3,454.37,0.16,2023,June
+ORD00249,2024-04-01,Steven Brown,West,Maharashtra,Furniture,Table,4,3598.74,619.73,0.27,2024,April
+ORD00250,2023-11-12,Jerry Johnson,South,Kerala,Technology,Printer,7,2311.15,148.92,0.14,2023,November
+ORD00251,2023-12-19,James Rodriguez,West,Gujarat,Office Supplies,Pen,1,3741.73,728.06,0.01,2023,December
+ORD00252,2024-10-18,Michelle Smith,North,Delhi,Office Supplies,Pen,8,207.09,31.52,0.23,2024,October
+ORD00253,2024-11-30,Samuel Smith,East,Odisha,Office Supplies,Paper,8,4354.62,1204.89,0.11,2024,November
+ORD00254,2023-05-11,Katie Lopez,South,Kerala,Office Supplies,Marker,6,637.23,190.03,0.12,2023,May
+ORD00255,2024-01-24,Jennifer Greene,North,Delhi,Office Supplies,Notebook,5,2341.87,538.1,0.13,2024,January
+ORD00256,2023-04-26,Juan Rodriguez,West,Gujarat,Technology,Smartphone,3,1414.47,402.21,0.22,2023,April
+ORD00257,2024-11-19,Sharon Hicks,North,Delhi,Technology,Printer,4,383.09,76.04,0.13,2024,November
+ORD00258,2023-02-27,Allen Wright,South,Kerala,Office Supplies,Pen,1,2041.21,221.64,0.07,2023,February
+ORD00259,2023-11-25,Colin Willis,East,West Bengal,Technology,Monitor,10,1628.57,324.87,0.2,2023,November
+ORD00260,2024-08-28,Linda Evans,South,Kerala,Technology,Tablet,9,1144.16,143.16,0.02,2024,August
+ORD00261,2024-01-26,Brendan Davis DVM,West,Rajasthan,Office Supplies,Notebook,8,282.08,38.39,0.19,2024,January
+ORD00262,2023-09-04,Nicholas Taylor,West,Gujarat,Office Supplies,Stapler,3,1534.45,147.26,0.16,2023,September
+ORD00263,2023-05-18,Isaac Wells,South,Tamil Nadu,Technology,Tablet,1,2833.81,827.32,0.17,2023,May
+ORD00264,2023-04-05,Matthew Grant,East,West Bengal,Furniture,Desk,6,3251.19,912.14,0.25,2023,April
+ORD00265,2023-07-12,Jack Burke,North,Punjab,Office Supplies,Notebook,7,3384.68,679.41,0.26,2023,July
+ORD00266,2023-01-16,Kathleen Hartman,South,Tamil Nadu,Office Supplies,Marker,4,4353.9,580.12,0.29,2023,January
+ORD00267,2024-02-11,Chad Ortega,North,Haryana,Technology,Smartphone,8,4576.48,1024.7,0.21,2024,February
+ORD00268,2024-01-04,Amy Martin,East,Odisha,Technology,Monitor,7,2357.94,500.31,0.09,2024,January
+ORD00269,2023-11-17,Matthew Espinoza,West,Maharashtra,Office Supplies,Paper,8,3820.06,496.83,0.06,2023,November
+ORD00270,2024-03-03,Christopher Wilkinson,South,Kerala,Furniture,Chair,3,130.29,24.54,0.18,2024,March
+ORD00271,2024-11-01,Sarah Peterson,South,Tamil Nadu,Furniture,Desk,4,1930.21,498.65,0.15,2024,November
+ORD00272,2023-05-24,Tracey Torres,East,Odisha,Office Supplies,Stapler,8,2331.1,543.6,0.11,2023,May
+ORD00273,2023-03-18,Jesse Bautista,West,Maharashtra,Office Supplies,Marker,9,4952.1,1432.69,0.16,2023,March
+ORD00274,2023-01-10,Michael Sawyer,North,Punjab,Office Supplies,Pen,3,4220.6,455.23,0.21,2023,January
+ORD00275,2024-05-09,Brooke Owen,West,Gujarat,Technology,Monitor,1,3108.28,673.53,0.18,2024,May
+ORD00276,2023-10-09,Joshua Anderson,North,Delhi,Office Supplies,Paper,9,2780.64,147.27,0.16,2023,October
+ORD00277,2023-04-09,Anita Rush,North,Haryana,Office Supplies,Stapler,7,4040.53,1121.02,0.03,2023,April
+ORD00278,2024-02-11,Joseph Dixon,South,Karnataka,Office Supplies,Notebook,10,2655.96,674.09,0.08,2024,February
+ORD00279,2023-03-24,Robert Faulkner,West,Gujarat,Technology,Tablet,10,1253.88,281.26,0.09,2023,March
+ORD00280,2024-12-20,Alan Kennedy,North,Punjab,Office Supplies,Pen,7,1916.99,323.97,0.19,2024,December
+ORD00281,2024-06-24,Amy Palmer,West,Gujarat,Technology,Laptop,6,2850.99,754.06,0.03,2024,June
+ORD00282,2023-10-15,Patricia Shields,South,Kerala,Technology,Smartphone,10,2403.73,148.17,0.02,2023,October
+ORD00283,2024-12-30,Pamela Navarro,North,Delhi,Office Supplies,Marker,6,127.51,12.98,0.04,2024,December
+ORD00284,2024-07-07,Sheryl Parker,East,West Bengal,Furniture,Chair,10,1240.34,320.83,0.12,2024,July
+ORD00285,2024-03-23,Ian Beck,South,Kerala,Furniture,Bookcase,2,2528.92,742.44,0.02,2024,March
+ORD00286,2023-01-31,Kelly Hill,East,Bihar,Technology,Laptop,10,4776.55,712.55,0.23,2023,January
+ORD00287,2024-11-27,Taylor Nelson,West,Gujarat,Office Supplies,Stapler,4,1811.27,516.73,0.13,2024,November
+ORD00288,2023-06-07,David Lawrence,North,Haryana,Office Supplies,Paper,5,4000.37,913.19,0.02,2023,June
+ORD00289,2024-01-04,Rodney Lam,West,Gujarat,Furniture,Desk,6,577.43,29.62,0.09,2024,January
+ORD00290,2023-04-16,Sarah Williams,South,Karnataka,Furniture,Chair,3,2183.35,413.19,0.15,2023,April
+ORD00291,2023-01-13,David George,East,Bihar,Technology,Laptop,2,3004.78,739.51,0.26,2023,January
+ORD00292,2023-06-23,Nicholas Byrd,West,Maharashtra,Furniture,Bookcase,9,4530.78,1334.51,0.17,2023,June
+ORD00293,2024-03-21,Joshua Smith,South,Karnataka,Office Supplies,Paper,5,1540.6,266.96,0.02,2024,March
+ORD00294,2024-05-22,Stephen Jones,East,Odisha,Furniture,Bookcase,2,1837.57,525.65,0.22,2024,May
+ORD00295,2024-09-27,Maria Adams,South,Tamil Nadu,Office Supplies,Marker,2,720.67,37.25,0.12,2024,September
+ORD00296,2023-05-20,Mr. Joseph Dunn,West,Gujarat,Furniture,Sofa,7,4086.6,1082.45,0.29,2023,May
+ORD00297,2024-12-12,Sandra Bauer,South,Tamil Nadu,Furniture,Sofa,6,929.3,138.99,0.1,2024,December
+ORD00298,2024-07-31,Jesse Crane,South,Tamil Nadu,Office Supplies,Paper,7,1437.49,354.29,0.11,2024,July
+ORD00299,2023-08-03,Thomas Murphy,South,Kerala,Technology,Monitor,9,183.23,42.47,0.28,2023,August
+ORD00300,2023-06-07,Daniel Lopez,North,Punjab,Furniture,Sofa,8,738.94,92.89,0.08,2023,June
+ORD00301,2024-06-02,Leah Rivera,West,Maharashtra,Office Supplies,Paper,8,4953.97,841.23,0.12,2024,June
+ORD00302,2023-09-12,Paula Wright,North,Punjab,Office Supplies,Paper,9,2989.41,832.85,0.03,2023,September
+ORD00303,2024-02-14,Gary Brown,South,Kerala,Office Supplies,Stapler,10,269.27,79.68,0.2,2024,February
+ORD00304,2024-08-17,Robert Miller,North,Delhi,Furniture,Bookcase,2,1330.75,236.43,0.16,2024,August
+ORD00305,2024-05-27,Laura Knapp,South,Tamil Nadu,Office Supplies,Marker,6,1986.11,482.79,0.18,2024,May
+ORD00306,2023-05-26,Julia Conrad,North,Punjab,Technology,Tablet,2,1512.39,423.68,0.03,2023,May
+ORD00307,2024-12-14,Katie Chaney,East,Odisha,Furniture,Sofa,4,2629.52,360.44,0.03,2024,December
+ORD00308,2024-10-25,Ashley Morgan,North,Punjab,Furniture,Sofa,1,4060.42,319.84,0.25,2024,October
+ORD00309,2024-04-18,Angela Fernandez,South,Kerala,Technology,Smartphone,3,2781.96,369.3,0.13,2024,April
+ORD00310,2024-04-05,Holly Jones,South,Karnataka,Technology,Printer,7,2008.13,470.6,0.26,2024,April
+ORD00311,2023-03-06,Stephanie Nguyen,West,Maharashtra,Office Supplies,Paper,4,1068.63,254.42,0.24,2023,March
+ORD00312,2024-05-16,Samantha Landry,South,Tamil Nadu,Office Supplies,Pen,6,1025.52,80.49,0.2,2024,May
+ORD00313,2024-09-24,Judy Jackson,West,Rajasthan,Office Supplies,Stapler,7,2955.67,404.87,0.25,2024,September
+ORD00314,2024-01-18,Nicholas Coleman,North,Haryana,Technology,Tablet,3,1600.27,175.46,0.04,2024,January
+ORD00315,2024-10-12,Stephanie Marshall,West,Gujarat,Office Supplies,Notebook,10,732.44,106.88,0.06,2024,October
+ORD00316,2023-02-24,Becky Vasquez,South,Tamil Nadu,Office Supplies,Notebook,5,744.47,95.77,0.14,2023,February
+ORD00317,2024-05-21,Jeffrey Jackson,West,Maharashtra,Furniture,Chair,4,4085.32,1188.65,0.15,2024,May
+ORD00318,2023-08-14,Shawn Ramirez,West,Rajasthan,Furniture,Bookcase,8,2469.06,174.48,0.01,2023,August
+ORD00319,2024-05-22,Jocelyn Barnett,East,West Bengal,Furniture,Chair,9,1478.92,362.61,0.17,2024,May
+ORD00320,2024-07-09,Andrew Stokes,North,Haryana,Office Supplies,Marker,2,1376.05,255.64,0.3,2024,July
+ORD00321,2023-02-03,Eric Martinez,South,Tamil Nadu,Technology,Printer,2,3693.14,788.18,0.07,2023,February
+ORD00322,2023-08-03,Alexander Hernandez,East,West Bengal,Furniture,Sofa,8,4333.19,343.82,0.24,2023,August
+ORD00323,2023-07-31,Christian Dixon,East,Bihar,Office Supplies,Marker,10,3182.21,291.16,0.04,2023,July
+ORD00324,2023-10-27,Jason Farrell,East,Bihar,Technology,Laptop,5,3004.45,276.69,0.29,2023,October
+ORD00325,2023-03-02,William Edwards,East,Bihar,Furniture,Table,2,721.17,171.29,0.12,2023,March
+ORD00326,2024-11-23,Michael Burke,South,Karnataka,Furniture,Desk,3,3571.4,918.28,0.23,2024,November
+ORD00327,2023-04-06,Andre Carney,South,Kerala,Furniture,Bookcase,5,3157.67,454.05,0.02,2023,April
+ORD00328,2023-04-06,Brian Mason,East,Bihar,Furniture,Table,6,2300.74,395.75,0.17,2023,April
+ORD00329,2024-05-21,Jennifer Adams,East,West Bengal,Office Supplies,Paper,9,2018.69,589.52,0.25,2024,May
+ORD00330,2023-12-18,Linda King,East,Odisha,Furniture,Sofa,9,2910.77,557.52,0.15,2023,December
+ORD00331,2024-04-12,Ross Peterson,North,Delhi,Office Supplies,Pen,8,130.59,36.87,0.05,2024,April
+ORD00332,2023-10-08,Ms. Brandy Reed DDS,South,Kerala,Technology,Printer,3,4416.63,554.14,0.26,2023,October
+ORD00333,2024-10-02,Latasha Klein,East,West Bengal,Technology,Tablet,6,3339.32,708.7,0.02,2024,October
+ORD00334,2023-05-16,Tracy Martinez,West,Rajasthan,Furniture,Desk,2,3533.31,177.63,0.14,2023,May
+ORD00335,2024-03-08,Johnny Wilson,West,Maharashtra,Office Supplies,Notebook,1,3493.21,888.24,0.3,2024,March
+ORD00336,2023-11-17,David Dalton,West,Maharashtra,Office Supplies,Notebook,4,1946.2,452.86,0.03,2023,November
+ORD00337,2024-07-30,Frances Oconnell,South,Tamil Nadu,Furniture,Sofa,3,3225.8,707.37,0.02,2024,July
+ORD00338,2024-02-26,Lori Calhoun,South,Tamil Nadu,Technology,Monitor,6,3626.04,750.66,0.05,2024,February
+ORD00339,2023-12-26,Brad Stafford,South,Karnataka,Office Supplies,Paper,2,743.07,60.03,0.22,2023,December
+ORD00340,2024-09-14,Gary Terrell,South,Karnataka,Furniture,Sofa,5,3240.87,363.11,0.18,2024,September
+ORD00341,2024-10-23,Sharon Holloway,East,West Bengal,Furniture,Chair,9,3054.29,296.76,0.12,2024,October
+ORD00342,2023-01-13,Mark Turner,West,Gujarat,Technology,Smartphone,2,1243.35,260.51,0.02,2023,January
+ORD00343,2024-04-27,Kevin Lam,South,Tamil Nadu,Furniture,Sofa,10,2133.27,398.04,0.05,2024,April
+ORD00344,2024-02-12,Thomas Brown,North,Delhi,Technology,Laptop,5,1117.93,313.74,0.28,2024,February
+ORD00345,2023-10-12,Christine Pena,West,Gujarat,Office Supplies,Stapler,7,458.02,84.34,0.18,2023,October
+ORD00346,2024-08-23,John Moody,North,Haryana,Technology,Tablet,4,4872.85,432.92,0.1,2024,August
+ORD00347,2023-03-30,Tina Bishop,East,Bihar,Office Supplies,Pen,7,3663.29,958.38,0.02,2023,March
+ORD00348,2023-06-29,Christopher Davis,West,Rajasthan,Furniture,Chair,10,322.39,69.8,0.2,2023,June
+ORD00349,2023-09-23,Alicia Hall,South,Kerala,Technology,Laptop,1,860.97,248.18,0.16,2023,September
+ORD00350,2023-12-10,Austin Arias,South,Kerala,Technology,Tablet,5,3678.03,292.46,0.27,2023,December
+ORD00351,2023-02-26,William Walters,North,Punjab,Furniture,Sofa,10,3156.29,549.31,0.15,2023,February
+ORD00352,2023-04-29,Julie Bright DVM,South,Tamil Nadu,Furniture,Table,3,1312.82,99.41,0.17,2023,April
+ORD00353,2023-06-03,Brandi Sanchez,North,Delhi,Technology,Monitor,1,1260.53,211.69,0.11,2023,June
+ORD00354,2023-03-21,Thomas Nielsen,West,Maharashtra,Technology,Laptop,6,1278.9,356.77,0.1,2023,March
+ORD00355,2024-02-15,Virginia Brown,North,Haryana,Office Supplies,Stapler,1,937.75,235.45,0.29,2024,February
+ORD00356,2023-10-26,Michael Lee,East,Odisha,Technology,Printer,6,477.61,78.42,0.11,2023,October
+ORD00357,2023-07-20,Gregory Mendez,South,Tamil Nadu,Office Supplies,Stapler,6,2978.87,516.36,0.23,2023,July
+ORD00358,2024-10-13,Glenn Lozano,South,Karnataka,Office Supplies,Marker,1,4665.37,261.16,0.16,2024,October
+ORD00359,2024-06-26,Toni Galvan,East,West Bengal,Office Supplies,Pen,7,4252.58,985.76,0.03,2024,June
+ORD00360,2024-06-16,Timothy Joyce,West,Maharashtra,Technology,Printer,3,3572.68,261.72,0.28,2024,June
+ORD00361,2024-02-08,Laura Copeland,West,Rajasthan,Furniture,Sofa,2,2924.81,515.81,0.19,2024,February
+ORD00362,2024-02-07,Samantha Sanchez,North,Punjab,Technology,Monitor,3,1222.02,140.84,0.09,2024,February
+ORD00363,2024-08-21,Alexandra Anderson,East,Odisha,Office Supplies,Stapler,5,1206.38,344.89,0.04,2024,August
+ORD00364,2023-08-01,Deborah Gallagher,North,Delhi,Technology,Smartphone,8,2356.97,357.38,0.16,2023,August
+ORD00365,2024-12-22,Eric Bates,West,Gujarat,Furniture,Sofa,2,497.58,125.34,0.09,2024,December
+ORD00366,2024-02-10,Timothy Thomas,North,Delhi,Office Supplies,Marker,6,784.2,178.63,0.29,2024,February
+ORD00367,2024-07-17,Fernando Woods,East,Odisha,Office Supplies,Pen,3,203.86,30.8,0.14,2024,July
+ORD00368,2023-08-16,Angelica Davis,West,Maharashtra,Technology,Laptop,3,651.19,42.6,0.23,2023,August
+ORD00369,2023-01-23,Ricardo Brown,West,Gujarat,Technology,Smartphone,2,2932.5,336.37,0.24,2023,January
+ORD00370,2023-02-13,Jessica Ochoa,West,Maharashtra,Technology,Smartphone,2,4530.14,1165.78,0.1,2023,February
+ORD00371,2024-11-30,Sandra Scott,South,Kerala,Furniture,Chair,7,4117.34,612.45,0.01,2024,November
+ORD00372,2024-09-20,Chad Moore,East,West Bengal,Furniture,Desk,3,1411.16,227.91,0.04,2024,September
+ORD00373,2023-03-31,Ralph Huerta,South,Kerala,Office Supplies,Marker,5,2519.51,682.02,0.14,2023,March
+ORD00374,2024-07-10,Robin Ross,South,Tamil Nadu,Furniture,Bookcase,4,3231.13,805.52,0.07,2024,July
+ORD00375,2023-11-26,Amanda Parker,East,Odisha,Technology,Printer,9,3918.1,532.9,0.17,2023,November
+ORD00376,2023-10-15,Stacey Lucas,South,Karnataka,Furniture,Sofa,6,3005.73,172.31,0.24,2023,October
+ORD00377,2023-09-30,Teresa Torres,East,Bihar,Technology,Printer,4,4871.2,365.5,0.2,2023,September
+ORD00378,2023-06-30,Kelli Holder,South,Kerala,Office Supplies,Pen,7,1806.28,469.28,0.25,2023,June
+ORD00379,2024-08-04,David Foley,East,Bihar,Technology,Monitor,6,4574.2,260.97,0.21,2024,August
+ORD00380,2023-08-27,Karina Lamb,South,Tamil Nadu,Office Supplies,Notebook,9,1579.81,272.69,0.03,2023,August
+ORD00381,2023-05-14,Robert Davies,North,Haryana,Office Supplies,Notebook,8,53.38,14.92,0.06,2023,May
+ORD00382,2023-04-24,Cheryl Jones,East,West Bengal,Furniture,Desk,1,781.17,176.68,0.04,2023,April
+ORD00383,2023-06-11,Patrick Huber,North,Punjab,Office Supplies,Stapler,7,2950.78,395.82,0.1,2023,June
+ORD00384,2024-09-20,Mrs. Erin King,West,Rajasthan,Office Supplies,Paper,6,912.3,266.56,0.21,2024,September
+ORD00385,2023-01-02,David Moyer,South,Tamil Nadu,Furniture,Desk,5,3683.28,455.36,0.05,2023,January
+ORD00386,2024-09-18,Robert Gonzalez,West,Rajasthan,Office Supplies,Marker,1,951.3,123.24,0.24,2024,September
+ORD00387,2023-11-24,Jean Gray,North,Punjab,Technology,Monitor,3,1689.28,117.32,0.1,2023,November
+ORD00388,2023-09-20,Hunter Larsen,East,Odisha,Technology,Laptop,1,1362.8,153.16,0.02,2023,September
+ORD00389,2024-05-19,Leroy Castillo,North,Punjab,Technology,Laptop,8,3676.29,1074.49,0.27,2024,May
+ORD00390,2023-08-19,Corey Walter,West,Maharashtra,Furniture,Sofa,8,3954.21,769.15,0.23,2023,August
+ORD00391,2023-12-17,Kenneth Smith,North,Delhi,Technology,Printer,5,149.39,17.22,0.03,2023,December
+ORD00392,2024-08-31,Jose Strickland,South,Kerala,Technology,Printer,2,2757.88,757.12,0.03,2024,August
+ORD00393,2023-12-06,Melissa Allen,North,Punjab,Office Supplies,Paper,3,3056.22,484.56,0.02,2023,December
+ORD00394,2023-10-16,Jose Bailey,West,Rajasthan,Technology,Smartphone,9,3624.09,842.58,0.08,2023,October
+ORD00395,2024-01-05,Kevin Bryant,North,Delhi,Furniture,Desk,7,2880.26,748.76,0.05,2024,January
+ORD00396,2024-10-15,Hunter Smith,North,Punjab,Technology,Printer,10,2427.63,180.24,0.06,2024,October
+ORD00397,2023-09-29,Melissa West,West,Maharashtra,Furniture,Chair,5,3935.14,660.07,0.27,2023,September
+ORD00398,2023-09-27,James Wilson,West,Maharashtra,Technology,Monitor,6,4433.19,631.07,0.13,2023,September
+ORD00399,2023-04-10,Charlotte Lopez,East,West Bengal,Furniture,Bookcase,5,2843.02,249.57,0.21,2023,April
+ORD00400,2024-03-04,Jessica Robinson,West,Rajasthan,Technology,Tablet,4,2790.33,726.04,0.25,2024,March
+ORD00401,2024-05-29,Beth Reeves,South,Tamil Nadu,Office Supplies,Paper,5,440.83,121.53,0.21,2024,May
+ORD00402,2023-07-17,William Mendez,South,Karnataka,Office Supplies,Marker,8,905.75,268.19,0.29,2023,July
+ORD00403,2024-09-01,Samantha Pittman,West,Maharashtra,Technology,Laptop,7,1049.5,268.3,0.04,2024,September
+ORD00404,2024-06-16,Marcus Jones,North,Delhi,Furniture,Sofa,7,2804.0,527.19,0.26,2024,June
+ORD00405,2023-04-13,Michael Huffman,West,Maharashtra,Furniture,Chair,7,790.73,151.54,0.17,2023,April
+ORD00406,2024-11-01,Jacob Steele,North,Punjab,Technology,Monitor,9,4406.67,1187.48,0.08,2024,November
+ORD00407,2024-12-11,Paul Baker,West,Maharashtra,Furniture,Table,3,1413.3,121.49,0.18,2024,December
+ORD00408,2024-01-17,Stephanie Johnson,West,Gujarat,Furniture,Chair,4,293.99,49.63,0.08,2024,January
+ORD00409,2023-08-22,Kim Dyer,East,Odisha,Technology,Tablet,5,4222.09,1116.99,0.21,2023,August
+ORD00410,2024-03-28,Shannon Martinez,West,Gujarat,Technology,Tablet,5,3657.56,736.06,0.03,2024,March
+ORD00411,2023-11-15,Michael Wall,West,Rajasthan,Technology,Printer,6,4114.04,735.66,0.05,2023,November
+ORD00412,2023-07-25,Matthew Wilson,West,Maharashtra,Office Supplies,Marker,9,4402.7,252.0,0.06,2023,July
+ORD00413,2024-04-20,David Curtis,North,Punjab,Technology,Smartphone,1,4594.25,1039.03,0.08,2024,April
+ORD00414,2024-04-30,Latoya Delacruz,North,Haryana,Office Supplies,Paper,1,1247.59,214.83,0.13,2024,April
+ORD00415,2023-04-03,John Jones,East,Odisha,Office Supplies,Marker,3,4196.39,481.18,0.25,2023,April
+ORD00416,2023-08-15,Daniel Allison,West,Maharashtra,Furniture,Chair,3,4276.42,1047.54,0.06,2023,August
+ORD00417,2024-11-29,Mitchell Bailey,South,Tamil Nadu,Office Supplies,Notebook,7,2590.74,689.54,0.29,2024,November
+ORD00418,2023-11-09,Nicholas Collins,South,Kerala,Technology,Printer,3,3025.65,157.68,0.08,2023,November
+ORD00419,2024-06-17,Jasmine Simmons,West,Gujarat,Office Supplies,Stapler,6,2322.04,242.77,0.09,2024,June
+ORD00420,2024-07-28,Brad Boone,North,Delhi,Office Supplies,Paper,9,4997.18,1457.28,0.25,2024,July
+ORD00421,2023-11-29,Timothy Haas,East,Odisha,Office Supplies,Marker,2,2434.61,326.41,0.08,2023,November
+ORD00422,2024-09-06,Paul Beck,East,West Bengal,Furniture,Sofa,3,2610.6,287.36,0.02,2024,September
+ORD00423,2024-03-04,Tyler Burton,South,Kerala,Furniture,Sofa,1,3294.23,986.18,0.08,2024,March
+ORD00424,2024-12-03,Melissa King,North,Haryana,Furniture,Bookcase,10,4089.27,555.29,0.21,2024,December
+ORD00425,2023-07-05,Kaylee Chase,East,Bihar,Office Supplies,Paper,5,4234.83,1101.73,0.26,2023,July
+ORD00426,2024-11-27,Matthew Green,West,Maharashtra,Furniture,Chair,5,3639.67,690.66,0.27,2024,November
+ORD00427,2023-12-06,Samantha Maynard,South,Tamil Nadu,Furniture,Chair,4,3733.84,473.34,0.24,2023,December
+ORD00428,2024-09-27,Nicholas Rodriguez,East,Odisha,Furniture,Sofa,2,2379.16,634.28,0.18,2024,September
+ORD00429,2023-02-25,Mariah Pratt,South,Kerala,Technology,Printer,2,4344.11,631.71,0.09,2023,February
+ORD00430,2023-05-27,Shelby English,South,Tamil Nadu,Technology,Smartphone,7,4936.6,1348.73,0.3,2023,May
+ORD00431,2023-01-05,Robert Proctor,North,Punjab,Furniture,Desk,6,3173.61,298.97,0.19,2023,January
+ORD00432,2023-04-01,Elizabeth Booth,South,Karnataka,Furniture,Sofa,10,3834.19,660.99,0.23,2023,April
+ORD00433,2023-02-08,Michelle Tapia,West,Rajasthan,Technology,Monitor,7,2046.8,596.3,0.11,2023,February
+ORD00434,2023-01-05,Jason Knight,East,West Bengal,Office Supplies,Notebook,6,3796.4,693.82,0.01,2023,January
+ORD00435,2023-11-10,Hailey Butler,South,Kerala,Office Supplies,Notebook,6,1594.86,120.69,0.15,2023,November
+ORD00436,2024-03-20,Gwendolyn Jones,North,Punjab,Technology,Laptop,5,2306.84,415.4,0.16,2024,March
+ORD00437,2024-02-18,Brittany Fuller,East,Odisha,Office Supplies,Notebook,6,3763.07,343.27,0.27,2024,February
+ORD00438,2023-05-07,Jonathan Ritter,South,Kerala,Technology,Smartphone,3,1095.39,60.77,0.15,2023,May
+ORD00439,2023-02-19,Michael Taylor,West,Rajasthan,Furniture,Chair,5,3867.69,795.91,0.18,2023,February
+ORD00440,2024-04-30,Charles Evans,North,Delhi,Office Supplies,Pen,2,2113.04,306.52,0.16,2024,April
+ORD00441,2023-10-04,Barbara Farrell,South,Kerala,Office Supplies,Notebook,1,1540.53,331.86,0.2,2023,October
+ORD00442,2023-04-19,Aaron Hernandez,South,Tamil Nadu,Office Supplies,Marker,2,2582.34,527.89,0.08,2023,April
+ORD00443,2023-06-14,Crystal Mckenzie,South,Tamil Nadu,Furniture,Desk,9,4866.94,678.84,0.12,2023,June
+ORD00444,2023-04-24,Michael May,West,Maharashtra,Technology,Monitor,8,1686.49,85.48,0.2,2023,April
+ORD00445,2024-10-21,Emily Moody,South,Karnataka,Office Supplies,Paper,9,421.49,97.32,0.27,2024,October
+ORD00446,2023-10-25,Daniel Barrera,East,Odisha,Technology,Printer,8,297.9,75.46,0.26,2023,October
+ORD00447,2023-05-22,Kristin Dillon,West,Rajasthan,Furniture,Sofa,2,520.24,124.62,0.01,2023,May
+ORD00448,2024-01-17,Denise Moran,East,Odisha,Office Supplies,Notebook,8,4777.69,559.36,0.22,2024,January
+ORD00449,2024-05-04,Nicholas Livingston,North,Punjab,Furniture,Desk,7,4813.43,567.78,0.12,2024,May
+ORD00450,2024-08-27,Anne Reynolds,North,Delhi,Furniture,Desk,1,4908.77,1281.62,0.03,2024,August
+ORD00451,2024-12-01,Diane Jones,West,Maharashtra,Furniture,Table,10,1929.77,269.49,0.01,2024,December
+ORD00452,2024-11-01,Matthew Dominguez,West,Gujarat,Office Supplies,Notebook,2,4443.59,711.74,0.02,2024,November
+ORD00453,2024-03-19,Katelyn Lewis,South,Kerala,Furniture,Chair,6,2619.54,581.7,0.19,2024,March
+ORD00454,2024-09-19,Cindy Edwards,West,Gujarat,Office Supplies,Notebook,7,785.84,201.65,0.27,2024,September
+ORD00455,2024-05-18,Andre Galloway,South,Kerala,Technology,Laptop,8,4266.76,1140.73,0.02,2024,May
+ORD00456,2023-08-29,Michelle Vaughn,East,Odisha,Furniture,Desk,1,2559.3,480.19,0.11,2023,August
+ORD00457,2024-05-24,Randy Davis,West,Rajasthan,Technology,Printer,8,485.7,84.81,0.09,2024,May
+ORD00458,2024-09-10,Charles Ramirez,North,Punjab,Office Supplies,Pen,7,227.37,42.58,0.25,2024,September
+ORD00459,2023-08-17,Rebecca Bridges,South,Kerala,Office Supplies,Stapler,8,4754.26,669.57,0.02,2023,August
+ORD00460,2023-08-16,Marvin Washington,West,Rajasthan,Furniture,Sofa,6,3593.77,282.13,0.23,2023,August
+ORD00461,2023-06-18,Jonathan Sandoval,East,Bihar,Technology,Tablet,5,2761.07,396.14,0.03,2023,June
+ORD00462,2024-02-07,Jesse Johnson,West,Maharashtra,Furniture,Desk,5,3073.72,297.8,0.28,2024,February
+ORD00463,2024-11-19,Tyler Baxter,South,Kerala,Technology,Printer,6,583.44,89.63,0.28,2024,November
+ORD00464,2024-06-27,Misty Day,West,Gujarat,Office Supplies,Pen,10,4783.14,400.15,0.15,2024,June
+ORD00465,2024-12-09,Kathleen Sanchez,West,Rajasthan,Office Supplies,Pen,8,4625.64,1134.53,0.27,2024,December
+ORD00466,2024-01-29,Timothy Sanchez,South,Karnataka,Office Supplies,Notebook,7,3304.73,666.04,0.1,2024,January
+ORD00467,2023-05-17,Joseph Cardenas,South,Tamil Nadu,Furniture,Table,7,4819.79,1410.38,0.14,2023,May
+ORD00468,2024-10-09,Joshua Marsh,East,Bihar,Technology,Printer,9,4310.5,982.66,0.28,2024,October
+ORD00469,2024-12-28,Chad Silva,South,Kerala,Technology,Smartphone,5,3448.73,966.67,0.04,2024,December
+ORD00470,2024-11-14,Alexander Medina,East,Bihar,Office Supplies,Notebook,2,3815.84,727.18,0.17,2024,November
+ORD00471,2024-11-17,Christopher Larsen,East,Odisha,Office Supplies,Paper,1,2637.51,148.54,0.04,2024,November
+ORD00472,2023-10-30,Dennis Clark,East,West Bengal,Technology,Smartphone,5,3432.78,297.3,0.02,2023,October
+ORD00473,2023-08-18,Daniel Daniel,North,Punjab,Technology,Monitor,8,557.28,148.8,0.22,2023,August
+ORD00474,2024-11-11,Marc Mccoy,West,Maharashtra,Office Supplies,Marker,9,3932.32,981.92,0.09,2024,November
+ORD00475,2023-07-27,Jeremy Thomas,West,Gujarat,Technology,Printer,6,4830.87,306.52,0.22,2023,July
+ORD00476,2023-07-18,Julie Brown,South,Kerala,Office Supplies,Paper,6,3787.78,707.0,0.18,2023,July
+ORD00477,2024-01-22,Karen Garcia,South,Kerala,Furniture,Bookcase,2,975.53,91.16,0.15,2024,January
+ORD00478,2023-12-05,Kari Johnson,East,Bihar,Technology,Printer,5,693.83,135.99,0.08,2023,December
+ORD00479,2024-11-08,Lauren Davis,North,Delhi,Furniture,Desk,6,3004.56,731.36,0.19,2024,November
+ORD00480,2024-06-01,Natasha Roberts,East,West Bengal,Furniture,Bookcase,6,2650.71,766.71,0.16,2024,June
+ORD00481,2024-01-05,Michelle Hawkins,West,Maharashtra,Technology,Printer,6,1144.93,118.32,0.1,2024,January
+ORD00482,2024-10-19,Sylvia Gibson,West,Rajasthan,Furniture,Desk,1,617.87,84.34,0.07,2024,October
+ORD00483,2023-09-20,Michael Jones,South,Karnataka,Office Supplies,Marker,6,1937.79,482.61,0.03,2023,September
+ORD00484,2023-10-31,Ronald Russell PhD,North,Haryana,Office Supplies,Stapler,6,2595.83,459.94,0.15,2023,October
+ORD00485,2024-07-04,Jennifer Pacheco,East,Bihar,Office Supplies,Notebook,2,4743.65,435.7,0.29,2024,July
+ORD00486,2024-07-04,Melinda Wells,North,Delhi,Office Supplies,Pen,4,4331.51,675.94,0.03,2024,July
+ORD00487,2023-03-17,Bryan Murphy,North,Haryana,Office Supplies,Paper,3,167.58,38.41,0.01,2023,March
+ORD00488,2024-02-02,Cathy Chung,East,Bihar,Technology,Smartphone,2,2896.06,309.62,0.08,2024,February
+ORD00489,2024-09-25,Margaret Kelly,West,Gujarat,Furniture,Bookcase,1,1978.03,157.4,0.0,2024,September
+ORD00490,2024-12-03,Thomas Whitehead,North,Haryana,Technology,Monitor,2,1820.62,319.9,0.09,2024,December
+ORD00491,2023-06-10,Ryan Jennings,North,Punjab,Furniture,Table,8,1938.0,495.22,0.01,2023,June
+ORD00492,2024-10-11,Barbara Perkins,South,Kerala,Office Supplies,Notebook,7,3994.01,1047.9,0.09,2024,October
+ORD00493,2024-08-09,Ann Bird,East,West Bengal,Technology,Tablet,9,4380.1,373.81,0.01,2024,August
+ORD00494,2024-02-27,Christina Price MD,North,Punjab,Office Supplies,Paper,4,3754.07,1035.7,0.1,2024,February
+ORD00495,2023-07-05,Kimberly Perry,South,Karnataka,Office Supplies,Marker,3,1142.9,295.65,0.06,2023,July
+ORD00496,2023-09-14,Cindy Torres,North,Haryana,Office Supplies,Marker,8,3241.14,221.32,0.2,2023,September
+ORD00497,2024-09-26,Pamela Howell,West,Gujarat,Technology,Smartphone,6,684.66,146.43,0.03,2024,September
+ORD00498,2023-06-06,Caitlin Singh,East,Odisha,Technology,Smartphone,8,1675.31,359.95,0.21,2023,June
+ORD00499,2024-12-30,Kerry Kelly,East,Odisha,Office Supplies,Marker,7,884.77,113.52,0.24,2024,December
+ORD00500,2024-04-01,Shaun Hamilton,East,Odisha,Office Supplies,Paper,3,3413.92,453.68,0.14,2024,April
+ORD00501,2023-05-24,Ashley Matthews,West,Rajasthan,Furniture,Sofa,2,920.06,185.54,0.25,2023,May
+ORD00502,2024-10-08,Michael Pierce,East,Bihar,Office Supplies,Notebook,2,3650.76,996.75,0.25,2024,October
+ORD00503,2024-07-06,Debra Summers,West,Rajasthan,Technology,Monitor,4,4536.2,852.35,0.16,2024,July
+ORD00504,2023-05-18,Thomas Pierce,East,Odisha,Furniture,Desk,4,4462.62,880.92,0.26,2023,May
+ORD00505,2024-09-20,Robert Price,North,Punjab,Furniture,Table,6,2535.73,546.88,0.25,2024,September
+ORD00506,2023-05-30,Michael King,South,Tamil Nadu,Office Supplies,Notebook,3,936.77,269.02,0.2,2023,May
+ORD00507,2023-08-28,Joseph Roberts,East,West Bengal,Office Supplies,Paper,4,3819.29,412.24,0.08,2023,August
+ORD00508,2024-10-26,Steven Page,East,Odisha,Technology,Smartphone,8,4593.61,1242.06,0.01,2024,October
+ORD00509,2024-01-23,Lacey Jenkins,East,Bihar,Furniture,Chair,5,2914.23,561.11,0.11,2024,January
+ORD00510,2023-12-28,Kyle Wright,North,Haryana,Furniture,Table,5,1912.83,529.49,0.15,2023,December
+ORD00511,2023-03-20,Peter Parker,West,Rajasthan,Furniture,Bookcase,1,2534.09,214.74,0.05,2023,March
+ORD00512,2024-11-07,Mitchell Jordan,South,Karnataka,Office Supplies,Stapler,3,828.92,166.2,0.25,2024,November
+ORD00513,2023-06-15,Christopher Miller,East,Bihar,Technology,Printer,2,2433.51,412.98,0.06,2023,June
+ORD00514,2024-06-08,John Davis,North,Delhi,Office Supplies,Paper,1,683.03,135.3,0.04,2024,June
+ORD00515,2024-09-05,Austin Smith,South,Karnataka,Technology,Monitor,3,1328.39,126.21,0.29,2024,September
+ORD00516,2023-06-24,Anthony Williamson,East,West Bengal,Office Supplies,Pen,4,2273.56,677.96,0.26,2023,June
+ORD00517,2024-12-03,Wendy Harris,South,Kerala,Technology,Printer,3,3134.9,557.08,0.05,2024,December
+ORD00518,2024-05-31,Allison Walters,North,Delhi,Furniture,Bookcase,7,1958.04,151.05,0.06,2024,May
+ORD00519,2024-06-28,Audrey Murray,South,Kerala,Office Supplies,Paper,2,928.24,255.64,0.18,2024,June
+ORD00520,2024-11-25,Gary Davis,North,Punjab,Office Supplies,Pen,3,4514.82,834.44,0.0,2024,November
+ORD00521,2024-05-08,Emily Wiley,West,Gujarat,Office Supplies,Paper,1,3503.33,550.86,0.28,2024,May
+ORD00522,2023-03-27,Carrie Bowers,North,Punjab,Furniture,Sofa,3,1309.86,316.28,0.27,2023,March
+ORD00523,2024-06-19,Matthew Alexander,West,Gujarat,Furniture,Table,4,77.07,18.18,0.0,2024,June
+ORD00524,2023-06-08,Mrs. Shelley George,North,Punjab,Technology,Monitor,4,3454.45,445.54,0.11,2023,June
+ORD00525,2024-11-27,Vickie Garcia,East,Odisha,Furniture,Table,9,2146.63,303.56,0.08,2024,November
+ORD00526,2023-09-17,Dustin Miller,West,Rajasthan,Furniture,Desk,9,2438.22,347.58,0.17,2023,September
+ORD00527,2023-08-24,Matthew Cochran,East,Bihar,Furniture,Table,7,3692.12,973.8,0.2,2023,August
+ORD00528,2024-12-14,Kevin Bass,North,Delhi,Furniture,Desk,9,2032.78,273.63,0.17,2024,December
+ORD00529,2024-09-06,Jordan Skinner,South,Tamil Nadu,Office Supplies,Pen,1,4031.63,1031.35,0.14,2024,September
+ORD00530,2024-02-15,Cole Jones,North,Punjab,Furniture,Chair,4,1885.63,381.38,0.22,2024,February
+ORD00531,2024-05-21,Dr. Nicholas Potter,East,Bihar,Office Supplies,Marker,10,334.44,81.4,0.05,2024,May
+ORD00532,2024-06-12,Michele Morgan,South,Kerala,Furniture,Chair,9,1465.73,85.6,0.18,2024,June
+ORD00533,2023-03-30,Michael Brown,South,Kerala,Office Supplies,Notebook,1,1830.71,391.32,0.29,2023,March
+ORD00534,2024-12-21,Michael Garza,East,Bihar,Furniture,Bookcase,7,2056.98,205.86,0.0,2024,December
+ORD00535,2023-10-11,Gabriel Myers,East,Bihar,Technology,Laptop,9,4579.29,627.47,0.29,2023,October
+ORD00536,2023-04-20,Donna Cooper,South,Tamil Nadu,Technology,Monitor,7,2895.79,333.82,0.12,2023,April
+ORD00537,2024-08-11,Jennifer Sanchez,East,Odisha,Office Supplies,Pen,2,4024.56,1163.81,0.26,2024,August
+ORD00538,2024-04-14,Anthony Davis,West,Rajasthan,Furniture,Bookcase,8,3861.34,924.28,0.29,2024,April
+ORD00539,2023-08-14,Jeffrey Giles,North,Punjab,Office Supplies,Paper,2,1326.21,193.19,0.24,2023,August
+ORD00540,2023-09-12,Joshua Jones,East,Odisha,Office Supplies,Notebook,6,2606.7,136.67,0.25,2023,September
+ORD00541,2023-12-29,Linda Newman,West,Rajasthan,Furniture,Chair,6,426.34,120.59,0.14,2023,December
+ORD00542,2023-09-29,Richard Harrington,East,West Bengal,Technology,Monitor,4,2520.05,251.79,0.22,2023,September
+ORD00543,2023-03-22,Laura Mitchell,South,Karnataka,Technology,Smartphone,10,1812.34,443.54,0.04,2023,March
+ORD00544,2024-08-11,Christopher Ellis,North,Haryana,Office Supplies,Paper,1,4247.65,606.56,0.09,2024,August
+ORD00545,2024-06-22,Steven Hammond,South,Kerala,Furniture,Bookcase,5,2019.5,479.72,0.04,2024,June
+ORD00546,2023-05-04,Jason Thornton,North,Haryana,Furniture,Bookcase,6,1998.9,442.93,0.05,2023,May
+ORD00547,2023-11-30,Nicole Stephens,West,Gujarat,Office Supplies,Marker,1,108.51,11.14,0.17,2023,November
+ORD00548,2023-12-18,Jamie Herrera,East,West Bengal,Furniture,Table,9,1351.1,158.55,0.29,2023,December
+ORD00549,2024-02-15,Mark Keller,West,Gujarat,Furniture,Desk,4,2124.51,505.74,0.11,2024,February
+ORD00550,2023-10-04,Elizabeth Leach,South,Kerala,Furniture,Bookcase,3,4897.4,1084.79,0.24,2023,October
+ORD00551,2023-01-10,Richard Johnson,West,Gujarat,Technology,Monitor,4,771.93,223.7,0.04,2023,January
+ORD00552,2023-09-14,Linda Howard,West,Maharashtra,Technology,Printer,9,2693.21,347.24,0.15,2023,September
+ORD00553,2024-05-02,Christopher Gutierrez,North,Punjab,Office Supplies,Marker,2,3468.19,225.46,0.24,2024,May
+ORD00554,2023-09-21,Anthony Clark,West,Rajasthan,Office Supplies,Pen,6,1335.86,187.12,0.17,2023,September
+ORD00555,2024-08-12,John Casey,West,Maharashtra,Furniture,Chair,6,4343.47,1262.99,0.06,2024,August
+ORD00556,2024-04-02,Robert Haas,South,Tamil Nadu,Office Supplies,Marker,6,1659.2,294.69,0.23,2024,April
+ORD00557,2024-03-07,Jimmy Weaver,East,Odisha,Technology,Printer,3,4347.88,913.69,0.28,2024,March
+ORD00558,2023-10-26,Rhonda Smith,West,Maharashtra,Office Supplies,Marker,2,851.9,91.2,0.1,2023,October
+ORD00559,2024-06-17,Alexis Cruz,West,Gujarat,Office Supplies,Stapler,8,3915.82,1114.8,0.22,2024,June
+ORD00560,2024-12-18,Christopher Mckinney,South,Karnataka,Furniture,Bookcase,1,668.95,72.69,0.08,2024,December
+ORD00561,2024-07-15,Jonathan Johnson,South,Karnataka,Office Supplies,Pen,7,559.9,36.92,0.26,2024,July
+ORD00562,2024-02-04,Leslie Moreno,West,Rajasthan,Technology,Laptop,2,564.45,115.44,0.03,2024,February
+ORD00563,2023-06-24,Marcus Carey,South,Kerala,Furniture,Desk,5,2243.64,183.09,0.16,2023,June
+ORD00564,2024-07-15,Gregory Brooks,East,Odisha,Technology,Laptop,8,2362.61,632.53,0.28,2024,July
+ORD00565,2024-03-21,Zachary Rogers,South,Kerala,Furniture,Desk,10,2309.89,547.97,0.26,2024,March
+ORD00566,2024-01-10,Danielle Walters,East,Odisha,Office Supplies,Marker,8,2721.36,683.54,0.13,2024,January
+ORD00567,2023-12-19,Ashley Cherry,South,Tamil Nadu,Furniture,Sofa,1,50.46,12.81,0.25,2023,December
+ORD00568,2024-03-16,Jessica Mccarthy,North,Haryana,Furniture,Bookcase,8,4737.44,801.89,0.0,2024,March
+ORD00569,2024-02-09,Phillip Burch,South,Karnataka,Furniture,Table,9,1899.54,290.5,0.17,2024,February
+ORD00570,2024-09-19,Erica Gordon,West,Gujarat,Technology,Smartphone,4,1351.75,210.28,0.07,2024,September
+ORD00571,2023-07-06,Tracey Cook,East,Bihar,Office Supplies,Stapler,9,4053.6,621.12,0.26,2023,July
+ORD00572,2023-07-12,Susan Reyes,North,Haryana,Technology,Tablet,8,3107.76,366.82,0.19,2023,July
+ORD00573,2023-05-09,Loretta Meadows,South,Karnataka,Furniture,Chair,9,159.55,46.76,0.08,2023,May
+ORD00574,2023-11-16,Kimberly Ortiz,North,Delhi,Office Supplies,Paper,2,795.88,138.0,0.1,2023,November
+ORD00575,2023-02-27,Nathan Wilson,West,Rajasthan,Furniture,Sofa,1,1684.73,439.52,0.29,2023,February
+ORD00576,2024-01-26,Alan Garcia,North,Haryana,Furniture,Bookcase,8,948.94,259.94,0.08,2024,January
+ORD00577,2023-04-07,Robin Mora,South,Tamil Nadu,Technology,Laptop,8,1273.45,380.3,0.06,2023,April
+ORD00578,2024-07-16,Dale Wilson,West,Gujarat,Office Supplies,Notebook,5,4684.27,419.96,0.22,2024,July
+ORD00579,2023-08-12,Mrs. Michelle Gonzalez,East,Odisha,Office Supplies,Pen,5,1033.68,281.04,0.26,2023,August
+ORD00580,2023-09-06,Hayley Miller,West,Gujarat,Technology,Smartphone,1,878.43,104.56,0.04,2023,September
+ORD00581,2024-05-26,Frank Barr,West,Rajasthan,Technology,Laptop,10,817.21,198.34,0.07,2024,May
+ORD00582,2023-04-20,Joel Johnson,East,Bihar,Technology,Monitor,1,345.89,73.03,0.21,2023,April
+ORD00583,2024-03-25,Jose Taylor,South,Tamil Nadu,Technology,Printer,9,3953.38,945.55,0.24,2024,March
+ORD00584,2024-05-11,Shannon Robles,North,Haryana,Office Supplies,Notebook,7,1822.93,152.55,0.27,2024,May
+ORD00585,2024-04-24,Jessica Allen,East,Bihar,Office Supplies,Paper,8,989.39,95.63,0.1,2024,April
+ORD00586,2024-01-11,Joshua Ramsey,South,Karnataka,Furniture,Table,9,817.38,101.29,0.08,2024,January
+ORD00587,2024-09-27,Fred Gallagher,West,Rajasthan,Furniture,Chair,3,4420.52,905.91,0.11,2024,September
+ORD00588,2024-07-18,Michael Huff,North,Haryana,Technology,Tablet,9,4104.3,400.04,0.2,2024,July
+ORD00589,2023-03-10,William Morrison,East,Odisha,Technology,Monitor,7,3222.47,250.12,0.16,2023,March
+ORD00590,2024-10-19,John Duran,South,Karnataka,Technology,Smartphone,4,579.92,56.78,0.01,2024,October
+ORD00591,2023-08-02,John Evans PhD,East,West Bengal,Furniture,Bookcase,6,1142.58,262.18,0.0,2023,August
+ORD00592,2024-01-13,John Rodriguez,North,Punjab,Office Supplies,Paper,1,1836.58,433.19,0.27,2024,January
+ORD00593,2023-08-10,Ricardo Espinoza,East,Bihar,Office Supplies,Pen,1,3684.79,952.94,0.02,2023,August
+ORD00594,2023-09-12,James Smith,North,Haryana,Office Supplies,Pen,4,2681.72,261.11,0.16,2023,September
+ORD00595,2024-12-20,Arthur Alexander,West,Rajasthan,Office Supplies,Notebook,2,3843.1,746.1,0.2,2024,December
+ORD00596,2024-06-30,Zoe Rodriguez,North,Delhi,Office Supplies,Paper,3,2772.33,488.41,0.2,2024,June
+ORD00597,2024-10-10,Shannon Jackson,East,Odisha,Office Supplies,Paper,9,4957.74,650.27,0.11,2024,October
+ORD00598,2023-09-18,Joseph Harris,South,Kerala,Furniture,Sofa,9,1108.94,267.73,0.28,2023,September
+ORD00599,2024-06-14,Dr. Pamela Stevens,West,Gujarat,Furniture,Bookcase,1,3645.25,1078.04,0.18,2024,June
+ORD00600,2024-12-07,Danielle Velez,North,Punjab,Technology,Tablet,4,1113.37,143.32,0.23,2024,December
+ORD00601,2024-08-19,Edward Clark,South,Karnataka,Furniture,Table,1,2328.83,207.33,0.08,2024,August
+ORD00602,2023-03-21,Steven Richmond,East,Odisha,Technology,Smartphone,2,2873.91,552.56,0.07,2023,March
+ORD00603,2023-04-08,Cory Hamilton,West,Maharashtra,Office Supplies,Stapler,8,4137.24,920.12,0.17,2023,April
+ORD00604,2023-12-09,Jeremy Wise,North,Haryana,Office Supplies,Stapler,10,1938.65,475.03,0.28,2023,December
+ORD00605,2024-10-11,Lisa Walker,West,Maharashtra,Furniture,Bookcase,4,3751.01,984.15,0.28,2024,October
+ORD00606,2024-05-29,Roy White,North,Punjab,Office Supplies,Paper,9,253.85,46.96,0.04,2024,May
+ORD00607,2023-04-03,Rodney Wilson,South,Karnataka,Office Supplies,Notebook,7,4856.65,1156.9,0.17,2023,April
+ORD00608,2023-02-20,Frank Savage,East,Odisha,Technology,Printer,3,704.34,49.75,0.17,2023,February
+ORD00609,2023-05-19,Joshua Chen,East,West Bengal,Office Supplies,Paper,7,2534.02,616.92,0.04,2023,May
+ORD00610,2024-06-20,Ashley Campbell,South,Tamil Nadu,Furniture,Table,7,3278.63,324.67,0.18,2024,June
+ORD00611,2024-11-18,Chelsea White,North,Punjab,Technology,Smartphone,7,1650.89,463.96,0.03,2024,November
+ORD00612,2023-11-09,Cindy Stanley,East,Odisha,Furniture,Bookcase,4,1637.65,325.02,0.01,2023,November
+ORD00613,2024-12-02,Richard Johnson,West,Rajasthan,Technology,Tablet,3,2230.29,626.83,0.07,2024,December
+ORD00614,2023-10-22,Debbie Jones,North,Delhi,Furniture,Desk,1,1253.09,257.2,0.04,2023,October
+ORD00615,2023-08-05,Toni Richard,North,Punjab,Technology,Tablet,8,2382.39,316.78,0.22,2023,August
+ORD00616,2024-11-15,Ashley Watson,East,Bihar,Technology,Monitor,8,3134.06,934.19,0.21,2024,November
+ORD00617,2023-10-05,William Prince,North,Punjab,Technology,Printer,3,347.54,34.81,0.21,2023,October
+ORD00618,2024-01-04,Scott Johnson,North,Delhi,Technology,Printer,7,3318.85,716.03,0.27,2024,January
+ORD00619,2023-04-12,Bobby Maxwell,East,Bihar,Technology,Laptop,7,1194.28,173.38,0.29,2023,April
+ORD00620,2023-01-23,Craig Franklin,North,Delhi,Furniture,Bookcase,4,2528.22,415.88,0.28,2023,January
+ORD00621,2023-12-27,Christina Stephenson,East,Odisha,Technology,Smartphone,8,1997.33,178.26,0.1,2023,December
+ORD00622,2023-01-31,Jacob Mckinney,South,Kerala,Furniture,Sofa,5,4068.87,840.01,0.26,2023,January
+ORD00623,2024-01-27,Steven Wells,South,Karnataka,Office Supplies,Stapler,6,4491.02,962.12,0.03,2024,January
+ORD00624,2024-09-11,Reginald Thompson,South,Tamil Nadu,Office Supplies,Marker,4,2885.85,451.97,0.09,2024,September
+ORD00625,2023-05-22,Ryan Stone,South,Karnataka,Furniture,Bookcase,3,2926.1,646.7,0.06,2023,May
+ORD00626,2023-03-11,Mrs. Samantha Lawrence,South,Tamil Nadu,Furniture,Table,3,3298.35,630.68,0.05,2023,March
+ORD00627,2023-11-23,Kimberly Wilson,North,Delhi,Office Supplies,Marker,6,4205.64,363.29,0.01,2023,November
+ORD00628,2023-01-27,Dominique Mcgee,East,Odisha,Furniture,Bookcase,5,802.19,77.8,0.04,2023,January
+ORD00629,2023-01-27,Amy Hubbard,East,Bihar,Office Supplies,Marker,10,3081.19,613.43,0.07,2023,January
+ORD00630,2023-07-08,Maureen Jones,West,Maharashtra,Furniture,Chair,9,4238.38,708.62,0.19,2023,July
+ORD00631,2023-01-16,Haley Hardy,West,Maharashtra,Furniture,Bookcase,3,1006.64,58.44,0.23,2023,January
+ORD00632,2024-03-25,Anthony Frederick,South,Kerala,Furniture,Bookcase,4,3800.99,252.9,0.28,2024,March
+ORD00633,2024-01-25,Billy Sheppard,East,Odisha,Office Supplies,Paper,4,2166.4,528.72,0.18,2024,January
+ORD00634,2023-02-09,Latoya Smith,West,Rajasthan,Office Supplies,Stapler,10,2989.34,541.99,0.26,2023,February
+ORD00635,2023-02-10,Crystal Bond,West,Gujarat,Office Supplies,Pen,1,4395.01,489.74,0.16,2023,February
+ORD00636,2023-10-20,Amy Long,North,Delhi,Office Supplies,Paper,5,2225.79,603.41,0.23,2023,October
+ORD00637,2024-04-19,Charles Johnson,West,Gujarat,Furniture,Desk,10,4599.21,1023.27,0.27,2024,April
+ORD00638,2024-12-13,Susan Nichols,North,Haryana,Office Supplies,Paper,9,610.2,149.31,0.28,2024,December
+ORD00639,2024-12-30,Steven Ramirez,West,Gujarat,Office Supplies,Notebook,6,2281.88,216.14,0.18,2024,December
+ORD00640,2023-05-07,Dennis Jones,North,Punjab,Technology,Printer,6,3474.0,961.57,0.24,2023,May
+ORD00641,2024-06-07,Elizabeth Miller,West,Rajasthan,Technology,Laptop,6,472.27,107.12,0.22,2024,June
+ORD00642,2024-11-06,Mr. Dwayne Klein,West,Rajasthan,Office Supplies,Notebook,7,267.34,24.79,0.1,2024,November
+ORD00643,2024-04-01,Nicholas Bolton,South,Karnataka,Technology,Smartphone,1,2126.93,270.93,0.23,2024,April
+ORD00644,2024-05-24,Albert May,North,Delhi,Furniture,Desk,4,67.49,16.29,0.0,2024,May
+ORD00645,2024-02-24,Sheila Erickson,North,Haryana,Furniture,Table,8,1227.5,242.08,0.14,2024,February
+ORD00646,2023-08-01,Katherine Ramirez,North,Delhi,Furniture,Chair,9,1426.66,295.55,0.25,2023,August
+ORD00647,2024-09-09,Crystal Evans,South,Karnataka,Technology,Smartphone,6,231.77,61.06,0.2,2024,September
+ORD00648,2024-09-17,Thomas West,North,Delhi,Furniture,Sofa,2,2113.94,199.9,0.2,2024,September
+ORD00649,2023-11-27,Sergio Cain,South,Tamil Nadu,Office Supplies,Marker,10,1832.93,108.07,0.23,2023,November
+ORD00650,2023-10-09,Ryan Duran,North,Punjab,Furniture,Bookcase,9,371.38,62.28,0.04,2023,October
+ORD00651,2024-10-06,James Gonzalez,West,Rajasthan,Furniture,Table,4,3494.36,709.4,0.03,2024,October
+ORD00652,2024-09-15,Nicole Barker,West,Rajasthan,Office Supplies,Pen,10,4672.76,1385.8,0.09,2024,September
+ORD00653,2024-05-19,Mr. Joe Ross,East,West Bengal,Furniture,Sofa,10,2835.04,510.1,0.19,2024,May
+ORD00654,2024-10-02,Marisa Conway,South,Kerala,Technology,Monitor,5,4897.33,246.8,0.01,2024,October
+ORD00655,2023-01-12,Mary Armstrong,West,Gujarat,Technology,Smartphone,1,1702.27,323.61,0.19,2023,January
+ORD00656,2023-01-07,Carl Evans,East,Odisha,Office Supplies,Notebook,2,1573.47,277.99,0.1,2023,January
+ORD00657,2023-12-05,Seth Riddle,East,Odisha,Technology,Tablet,10,3099.17,177.52,0.05,2023,December
+ORD00658,2024-07-03,Brittney Phillips,West,Maharashtra,Furniture,Bookcase,3,2433.4,503.23,0.27,2024,July
+ORD00659,2023-11-20,Matthew Holder,West,Rajasthan,Furniture,Bookcase,1,4183.77,522.28,0.22,2023,November
+ORD00660,2023-12-29,Stephanie Rivera,North,Delhi,Office Supplies,Marker,10,3443.19,860.4,0.27,2023,December
+ORD00661,2024-08-07,Nathan Medina,East,West Bengal,Technology,Smartphone,6,4918.91,1016.38,0.25,2024,August
+ORD00662,2023-11-19,Tony Keller,South,Kerala,Office Supplies,Paper,2,4329.74,1029.98,0.21,2023,November
+ORD00663,2023-11-06,Andrew Wilson,East,Odisha,Office Supplies,Pen,2,2510.42,274.67,0.14,2023,November
+ORD00664,2023-04-05,Jermaine Gilmore,East,West Bengal,Technology,Monitor,2,1902.37,112.9,0.06,2023,April
+ORD00665,2024-06-20,David Steele,North,Punjab,Furniture,Table,9,812.68,109.74,0.15,2024,June
+ORD00666,2024-04-15,Andrew Johnson,South,Karnataka,Furniture,Sofa,9,3399.75,282.79,0.22,2024,April
+ORD00667,2023-03-31,Kimberly Martin,North,Delhi,Furniture,Table,5,4665.07,1034.54,0.18,2023,March
+ORD00668,2023-11-16,Cassandra Kennedy,North,Delhi,Furniture,Bookcase,9,3842.59,908.34,0.01,2023,November
+ORD00669,2024-11-18,Michele Porter,East,West Bengal,Office Supplies,Notebook,4,1468.51,268.84,0.23,2024,November
+ORD00670,2023-04-15,Joshua Brown,South,Karnataka,Technology,Tablet,5,616.58,178.55,0.17,2023,April
+ORD00671,2024-08-10,Abigail Salazar,East,Bihar,Technology,Monitor,6,1391.71,397.78,0.24,2024,August
+ORD00672,2023-01-30,Richard Ramirez,North,Punjab,Technology,Smartphone,10,4466.6,826.97,0.02,2023,January
+ORD00673,2024-08-29,Margaret Juarez,North,Punjab,Furniture,Chair,1,476.29,70.48,0.21,2024,August
+ORD00674,2024-06-30,Connie Ross,East,Odisha,Office Supplies,Paper,6,4096.34,934.89,0.2,2024,June
+ORD00675,2024-04-21,Jose Carter,South,Karnataka,Technology,Printer,8,531.45,67.81,0.19,2024,April
+ORD00676,2024-11-12,Mark West,South,Karnataka,Furniture,Desk,10,1327.36,186.98,0.06,2024,November
+ORD00677,2023-06-24,Jacob Bennett,West,Gujarat,Furniture,Sofa,1,373.56,29.22,0.14,2023,June
+ORD00678,2024-07-23,Edward Smith,South,Kerala,Furniture,Sofa,2,2058.15,470.43,0.03,2024,July
+ORD00679,2024-07-15,Kenneth Johnson,East,Bihar,Office Supplies,Pen,8,2034.04,311.94,0.19,2024,July
+ORD00680,2024-03-21,Beth Jones,West,Maharashtra,Technology,Printer,6,1080.78,241.57,0.13,2024,March
+ORD00681,2023-04-28,Andrew Lutz,South,Karnataka,Office Supplies,Stapler,2,3709.87,845.77,0.25,2023,April
+ORD00682,2024-02-20,Deborah Espinoza,West,Gujarat,Office Supplies,Marker,9,533.39,86.04,0.09,2024,February
+ORD00683,2024-11-07,Mary Abbott,North,Haryana,Technology,Monitor,10,3868.15,559.83,0.15,2024,November
+ORD00684,2023-05-31,Tracey Lowe,South,Karnataka,Technology,Laptop,10,4521.12,945.06,0.0,2023,May
+ORD00685,2024-11-28,Holly Herring,West,Rajasthan,Office Supplies,Notebook,5,1980.41,385.16,0.06,2024,November
+ORD00686,2024-06-06,Patrick Roberts,East,Odisha,Furniture,Sofa,6,4951.93,969.0,0.18,2024,June
+ORD00687,2024-07-27,Christina Williams,East,West Bengal,Furniture,Desk,6,4510.32,1316.9,0.0,2024,July
+ORD00688,2024-12-29,Mary Petersen,East,West Bengal,Furniture,Chair,4,2186.99,432.02,0.19,2024,December
+ORD00689,2024-07-22,David Holmes,West,Gujarat,Furniture,Bookcase,9,1095.52,102.27,0.04,2024,July
+ORD00690,2023-03-15,Tammy Mercado,West,Maharashtra,Furniture,Sofa,5,4987.41,1084.84,0.04,2023,March
+ORD00691,2023-05-21,Cindy Mays,South,Kerala,Office Supplies,Pen,8,3306.74,971.33,0.04,2023,May
+ORD00692,2024-03-10,Emily Roberson,West,Rajasthan,Office Supplies,Paper,10,4655.04,958.06,0.14,2024,March
+ORD00693,2023-08-31,Jennifer Davis,West,Gujarat,Office Supplies,Paper,4,969.67,195.04,0.17,2023,August
+ORD00694,2024-05-09,Brittany Morgan DDS,East,Odisha,Office Supplies,Marker,9,2902.94,169.43,0.01,2024,May
+ORD00695,2024-06-23,Tanya Hill,North,Haryana,Office Supplies,Stapler,8,4810.6,336.82,0.22,2024,June
+ORD00696,2024-11-15,Charles Park,North,Haryana,Furniture,Bookcase,10,487.81,82.01,0.22,2024,November
+ORD00697,2024-04-09,Sheila Garcia,East,Bihar,Technology,Monitor,1,4522.75,831.09,0.0,2024,April
+ORD00698,2023-02-06,Brian Shaffer,East,Odisha,Office Supplies,Paper,6,4804.88,1199.09,0.09,2023,February
+ORD00699,2024-08-09,Elizabeth Bailey,East,Bihar,Office Supplies,Marker,10,1339.19,277.65,0.17,2024,August
+ORD00700,2023-10-12,Kristin Smith,North,Punjab,Technology,Tablet,8,458.43,80.87,0.26,2023,October
+ORD00701,2024-08-28,Jason Pope,East,Odisha,Furniture,Desk,5,120.3,9.37,0.05,2024,August
+ORD00702,2024-06-24,Kelsey Lewis,West,Gujarat,Office Supplies,Notebook,3,1343.2,302.48,0.15,2024,June
+ORD00703,2024-02-27,Gina Melton,North,Delhi,Technology,Tablet,10,4673.01,413.74,0.15,2024,February
+ORD00704,2024-10-19,Jamie Collins,West,Rajasthan,Furniture,Desk,3,1093.74,255.49,0.1,2024,October
+ORD00705,2024-06-29,Hayley Matthews MD,North,Delhi,Furniture,Chair,8,2023.79,253.67,0.22,2024,June
+ORD00706,2024-04-04,Steven Ramsey,West,Gujarat,Technology,Printer,5,768.49,205.62,0.0,2024,April
+ORD00707,2024-10-29,Alexandra Mueller,North,Delhi,Furniture,Sofa,9,3205.25,926.46,0.13,2024,October
+ORD00708,2024-11-22,Joshua Snyder,East,Odisha,Furniture,Sofa,2,1313.95,257.59,0.14,2024,November
+ORD00709,2023-01-11,William Johnson,South,Kerala,Office Supplies,Notebook,6,3404.7,1015.63,0.09,2023,January
+ORD00710,2023-08-13,Wendy Hicks,North,Delhi,Office Supplies,Pen,7,533.61,40.54,0.13,2023,August
+ORD00711,2024-11-03,Tyrone Baxter,East,West Bengal,Office Supplies,Stapler,1,167.32,12.21,0.28,2024,November
+ORD00712,2024-10-25,Mark Sanders,North,Haryana,Technology,Monitor,2,477.61,96.08,0.11,2024,October
+ORD00713,2024-10-16,Lucas Fritz,North,Haryana,Office Supplies,Notebook,3,1304.01,217.43,0.28,2024,October
+ORD00714,2023-03-05,Lance Elliott,West,Rajasthan,Furniture,Sofa,6,1323.82,324.58,0.08,2023,March
+ORD00715,2024-05-18,Jason Mccormick MD,East,West Bengal,Furniture,Bookcase,5,4780.25,555.3,0.13,2024,May
+ORD00716,2024-09-20,Zachary Baxter,West,Maharashtra,Technology,Monitor,8,586.73,108.64,0.13,2024,September
+ORD00717,2023-09-14,Mr. Brian Parrish DDS,West,Rajasthan,Office Supplies,Pen,5,561.27,38.3,0.17,2023,September
+ORD00718,2024-12-17,Steven Willis,West,Maharashtra,Furniture,Chair,1,4667.82,1008.96,0.08,2024,December
+ORD00719,2023-03-13,David Knight,North,Haryana,Furniture,Bookcase,8,2416.79,364.88,0.22,2023,March
+ORD00720,2023-12-08,Jill Williams,North,Punjab,Office Supplies,Notebook,8,649.96,119.48,0.3,2023,December
+ORD00721,2024-04-15,Kimberly Buchanan,West,Maharashtra,Office Supplies,Stapler,2,1858.51,489.41,0.1,2024,April
+ORD00722,2024-02-04,Casey Wagner,South,Kerala,Furniture,Desk,1,4839.19,1041.31,0.09,2024,February
+ORD00723,2024-08-30,Austin Bradley,West,Maharashtra,Technology,Tablet,8,3689.85,313.58,0.06,2024,August
+ORD00724,2024-04-05,Lisa Williamson,West,Maharashtra,Technology,Printer,9,3234.87,565.85,0.29,2024,April
+ORD00725,2024-10-31,Brenda Long,East,West Bengal,Technology,Laptop,6,3949.5,239.75,0.04,2024,October
+ORD00726,2023-02-07,Kenneth Frederick,West,Rajasthan,Office Supplies,Marker,9,787.32,153.4,0.28,2023,February
+ORD00727,2024-12-19,Phillip Villegas,West,Rajasthan,Office Supplies,Notebook,1,2382.54,665.93,0.01,2024,December
+ORD00728,2024-09-17,Katherine Moore,North,Delhi,Office Supplies,Notebook,1,4528.08,1155.5,0.03,2024,September
+ORD00729,2023-07-27,Joel Smith,North,Delhi,Technology,Monitor,2,2510.86,627.2,0.07,2023,July
+ORD00730,2023-08-07,Victoria Robertson,West,Gujarat,Furniture,Sofa,2,4880.47,946.77,0.04,2023,August
+ORD00731,2024-12-14,Gregory Flores,South,Tamil Nadu,Technology,Monitor,2,647.69,55.25,0.12,2024,December
+ORD00732,2024-10-09,Daniel Harris,South,Tamil Nadu,Furniture,Table,4,4632.09,278.73,0.03,2024,October
+ORD00733,2024-12-24,Nicholas Brown,South,Karnataka,Office Supplies,Paper,8,449.58,23.29,0.28,2024,December
+ORD00734,2024-06-19,Phillip Luna,East,Odisha,Office Supplies,Marker,8,3477.17,353.07,0.19,2024,June
+ORD00735,2024-09-18,David Richardson,South,Karnataka,Furniture,Bookcase,10,3473.78,691.52,0.22,2024,September
+ORD00736,2023-04-08,Rodney Gardner,East,Odisha,Technology,Tablet,1,2810.67,275.38,0.3,2023,April
+ORD00737,2024-12-02,Colleen Smith,South,Tamil Nadu,Office Supplies,Stapler,4,1418.31,139.6,0.24,2024,December
+ORD00738,2023-09-15,Charles Johnson,South,Karnataka,Furniture,Bookcase,1,317.44,44.77,0.06,2023,September
+ORD00739,2023-01-30,Erin Owens,West,Maharashtra,Furniture,Table,2,3715.06,1044.73,0.05,2023,January
+ORD00740,2023-07-23,Dustin Phillips,North,Delhi,Furniture,Table,4,3620.95,717.59,0.1,2023,July
+ORD00741,2023-07-24,Kristopher Cruz,South,Karnataka,Office Supplies,Stapler,6,1177.52,128.68,0.12,2023,July
+ORD00742,2024-09-16,Bridget Thompson,North,Punjab,Furniture,Desk,10,2447.82,667.33,0.04,2024,September
+ORD00743,2023-10-04,Lisa Roberts,West,Gujarat,Furniture,Desk,3,2315.81,228.2,0.11,2023,October
+ORD00744,2024-04-14,Michael Munoz,South,Karnataka,Technology,Tablet,10,345.28,29.05,0.26,2024,April
+ORD00745,2024-09-18,Christopher Reyes,East,West Bengal,Furniture,Desk,5,3038.0,751.56,0.19,2024,September
+ORD00746,2024-08-28,Stacey Fitzgerald,South,Karnataka,Technology,Monitor,7,4292.02,739.53,0.3,2024,August
+ORD00747,2024-08-16,Nicole Jordan,East,West Bengal,Furniture,Bookcase,7,3694.09,412.5,0.1,2024,August
+ORD00748,2024-05-31,Omar Gonzales,South,Kerala,Technology,Monitor,1,2117.97,129.31,0.3,2024,May
+ORD00749,2023-01-13,Dawn Murillo,West,Gujarat,Technology,Printer,2,2289.58,252.15,0.17,2023,January
+ORD00750,2024-05-06,Joel Pollard,South,Karnataka,Office Supplies,Paper,6,1514.16,320.87,0.03,2024,May
+ORD00751,2024-04-10,John Roth,South,Kerala,Office Supplies,Stapler,8,4296.71,1017.55,0.01,2024,April
+ORD00752,2024-10-04,Anita Smith,West,Maharashtra,Furniture,Desk,6,3152.71,712.44,0.0,2024,October
+ORD00753,2024-09-19,Bridget Williams,East,Bihar,Technology,Printer,1,1518.12,361.65,0.21,2024,September
+ORD00754,2024-06-11,Francis Carter,South,Kerala,Office Supplies,Marker,2,3121.25,418.01,0.28,2024,June
+ORD00755,2023-06-29,Courtney Briggs,North,Delhi,Office Supplies,Stapler,7,1859.67,380.83,0.11,2023,June
+ORD00756,2024-10-26,Mark Tyler,North,Haryana,Office Supplies,Marker,4,735.11,98.31,0.16,2024,October
+ORD00757,2024-03-09,Keith Mcclure,South,Kerala,Furniture,Table,4,1636.3,449.14,0.15,2024,March
+ORD00758,2024-04-26,Michael Fletcher,North,Punjab,Furniture,Chair,6,2289.43,401.48,0.25,2024,April
+ORD00759,2023-03-09,Chad Cook,East,Odisha,Office Supplies,Marker,10,1872.32,408.78,0.21,2023,March
+ORD00760,2023-04-22,Kelly Christian,North,Delhi,Technology,Printer,7,4494.83,548.79,0.29,2023,April
+ORD00761,2024-10-04,Kristin Patterson,North,Haryana,Technology,Tablet,3,2506.83,673.71,0.16,2024,October
+ORD00762,2024-10-22,Nicole Day,West,Rajasthan,Technology,Tablet,9,4662.02,785.44,0.13,2024,October
+ORD00763,2024-10-22,Donald Phillips,South,Karnataka,Technology,Tablet,1,4365.38,471.82,0.28,2024,October
+ORD00764,2024-07-15,Donna Bullock,East,Bihar,Furniture,Bookcase,6,2456.43,531.73,0.16,2024,July
+ORD00765,2023-08-21,Curtis Jimenez,East,Bihar,Furniture,Bookcase,3,4496.5,569.36,0.24,2023,August
+ORD00766,2023-06-14,Jasmine Alexander,East,West Bengal,Furniture,Sofa,3,1797.95,294.83,0.05,2023,June
+ORD00767,2023-06-07,Ashley Yoder,East,West Bengal,Office Supplies,Marker,3,4204.69,938.55,0.2,2023,June
+ORD00768,2023-07-30,Teresa Bullock,North,Delhi,Technology,Smartphone,6,2893.9,463.67,0.11,2023,July
+ORD00769,2023-11-05,Jillian Henry,East,Odisha,Office Supplies,Pen,3,1895.93,350.68,0.05,2023,November
+ORD00770,2024-07-13,Jessica Nelson,West,Gujarat,Technology,Laptop,3,4741.56,1336.9,0.05,2024,July
+ORD00771,2024-11-13,Jason Herrera,East,Odisha,Office Supplies,Stapler,5,4849.55,1156.81,0.3,2024,November
+ORD00772,2024-07-18,Kevin Wood,West,Gujarat,Technology,Monitor,2,3671.62,1009.86,0.04,2024,July
+ORD00773,2023-02-26,Catherine Figueroa,North,Punjab,Technology,Tablet,10,4212.34,680.26,0.03,2023,February
+ORD00774,2024-11-18,Samantha Johnson,South,Tamil Nadu,Office Supplies,Notebook,4,161.62,29.84,0.13,2024,November
+ORD00775,2024-11-13,Richard Yates,West,Maharashtra,Technology,Monitor,8,1622.9,326.64,0.28,2024,November
+ORD00776,2023-12-26,Kara Hudson,South,Kerala,Furniture,Bookcase,7,1879.67,269.18,0.09,2023,December
+ORD00777,2023-06-17,Sandra Werner,North,Delhi,Furniture,Bookcase,8,3720.56,572.6,0.13,2023,June
+ORD00778,2024-06-21,Anthony Lutz,West,Maharashtra,Office Supplies,Paper,10,3009.78,258.57,0.09,2024,June
+ORD00779,2024-07-23,Daniel West,West,Maharashtra,Furniture,Chair,1,2076.83,578.61,0.12,2024,July
+ORD00780,2023-11-06,Valerie Leblanc,South,Karnataka,Furniture,Table,3,4169.8,510.24,0.15,2023,November
+ORD00781,2023-11-04,Teresa Hill,West,Rajasthan,Office Supplies,Stapler,8,1161.38,287.8,0.05,2023,November
+ORD00782,2023-09-08,Phillip Ortiz,North,Haryana,Office Supplies,Paper,5,2114.93,365.82,0.21,2023,September
+ORD00783,2024-03-22,Elizabeth Zuniga,East,Odisha,Technology,Laptop,2,3014.51,423.36,0.14,2024,March
+ORD00784,2024-08-18,David Bates,North,Punjab,Furniture,Bookcase,9,3678.14,200.04,0.08,2024,August
+ORD00785,2024-10-13,George Jones,East,Odisha,Technology,Smartphone,3,1819.06,115.0,0.11,2024,October
+ORD00786,2024-10-05,Priscilla Stevenson,East,Odisha,Furniture,Chair,9,3212.79,222.35,0.06,2024,October
+ORD00787,2023-11-05,Kevin Hicks,South,Kerala,Technology,Laptop,6,4368.59,1121.44,0.21,2023,November
+ORD00788,2023-10-16,Paul Mills,North,Haryana,Furniture,Sofa,10,1790.57,153.86,0.04,2023,October
+ORD00789,2023-07-12,Mrs. Mikayla Jensen,West,Gujarat,Furniture,Bookcase,3,556.97,49.37,0.07,2023,July
+ORD00790,2023-01-18,Elizabeth James,North,Punjab,Office Supplies,Marker,8,4584.35,362.81,0.04,2023,January
+ORD00791,2024-06-19,Craig Jones,East,Bihar,Furniture,Sofa,6,738.12,118.46,0.3,2024,June
+ORD00792,2023-08-21,Luis Rogers,East,West Bengal,Furniture,Desk,2,1150.67,304.01,0.04,2023,August
+ORD00793,2023-01-20,Thomas Patel,South,Karnataka,Furniture,Desk,2,2152.79,518.3,0.03,2023,January
+ORD00794,2024-04-25,Jessica Hogan,North,Delhi,Furniture,Bookcase,2,212.32,45.64,0.18,2024,April
+ORD00795,2024-09-08,Jared Gutierrez,North,Delhi,Technology,Tablet,5,3354.55,800.52,0.23,2024,September
+ORD00796,2023-10-12,Kristen Hill,South,Karnataka,Technology,Monitor,6,194.83,16.83,0.22,2023,October
+ORD00797,2023-03-11,Erica Wright,East,West Bengal,Office Supplies,Stapler,9,3914.97,795.68,0.15,2023,March
+ORD00798,2024-07-04,Robert Gutierrez,North,Haryana,Technology,Monitor,4,3593.27,1045.88,0.05,2024,July
+ORD00799,2023-04-20,Michael Harris,South,Kerala,Technology,Laptop,8,1863.99,367.85,0.13,2023,April
+ORD00800,2023-11-18,Danielle Austin,West,Gujarat,Technology,Tablet,4,2595.54,394.25,0.23,2023,November
+ORD00801,2023-02-11,Bradley Rodriguez,North,Haryana,Technology,Printer,3,2504.29,351.38,0.09,2023,February
+ORD00802,2024-03-30,Steven Levy,West,Maharashtra,Technology,Tablet,7,1453.88,290.92,0.09,2024,March
+ORD00803,2024-05-02,Haley Martinez,West,Gujarat,Technology,Monitor,7,984.49,66.36,0.25,2024,May
+ORD00804,2024-11-23,Daniel Lozano,South,Karnataka,Office Supplies,Stapler,8,3376.87,503.47,0.16,2024,November
+ORD00805,2023-06-22,Sarah Miller,South,Tamil Nadu,Technology,Laptop,7,3490.43,1027.56,0.22,2023,June
+ORD00806,2024-03-10,Michael Hoffman,South,Tamil Nadu,Technology,Tablet,4,2995.06,891.53,0.04,2024,March
+ORD00807,2024-02-14,Leslie Taylor,East,Bihar,Office Supplies,Paper,10,2988.57,714.49,0.24,2024,February
+ORD00808,2023-09-14,Terry Adams,West,Gujarat,Furniture,Bookcase,9,1430.51,346.18,0.03,2023,September
+ORD00809,2024-05-25,Jeanette Garcia,South,Kerala,Furniture,Bookcase,3,197.13,46.22,0.25,2024,May
+ORD00810,2023-04-09,Michael Baker,South,Tamil Nadu,Office Supplies,Pen,10,3412.06,300.89,0.19,2023,April
+ORD00811,2024-07-09,Kimberly Clay,West,Gujarat,Technology,Monitor,4,1503.14,262.26,0.15,2024,July
+ORD00812,2024-01-21,Brian Myers,North,Delhi,Furniture,Table,7,4406.62,351.58,0.14,2024,January
+ORD00813,2024-12-24,Yolanda Cole,North,Delhi,Furniture,Bookcase,3,2805.5,743.71,0.09,2024,December
+ORD00814,2024-11-22,Steven Evans,West,Maharashtra,Technology,Printer,5,3592.83,617.48,0.03,2024,November
+ORD00815,2024-05-21,Mr. Nathan Werner,West,Gujarat,Furniture,Table,9,4279.04,755.98,0.12,2024,May
+ORD00816,2024-01-11,Debra Cruz,East,Odisha,Office Supplies,Paper,6,354.05,69.97,0.04,2024,January
+ORD00817,2024-02-26,Amber Preston,North,Haryana,Furniture,Table,6,1933.84,303.68,0.3,2024,February
+ORD00818,2023-03-09,Tony Robinson,South,Karnataka,Furniture,Chair,4,3258.01,645.52,0.27,2023,March
+ORD00819,2024-03-08,Troy Farmer,East,West Bengal,Furniture,Chair,1,2715.16,161.13,0.2,2024,March
+ORD00820,2024-01-22,Kelsey Mack,West,Gujarat,Office Supplies,Marker,1,3494.99,688.5,0.3,2024,January
+ORD00821,2023-12-11,Sabrina Dickson,East,Bihar,Office Supplies,Paper,2,4051.22,303.9,0.2,2023,December
+ORD00822,2024-10-12,David Arnold DVM,East,West Bengal,Furniture,Table,10,1532.63,448.08,0.06,2024,October
+ORD00823,2023-08-20,Donna Daniel,South,Tamil Nadu,Technology,Monitor,5,285.28,85.31,0.12,2023,August
+ORD00824,2024-03-13,George Patel,North,Haryana,Office Supplies,Pen,6,1403.16,268.86,0.16,2024,March
+ORD00825,2023-11-17,Kenneth Jones,North,Haryana,Technology,Tablet,5,2547.97,318.44,0.2,2023,November
+ORD00826,2023-01-20,Melissa Hoffman,West,Gujarat,Technology,Printer,10,2601.08,566.75,0.16,2023,January
+ORD00827,2024-04-23,Mary Woods,South,Kerala,Office Supplies,Marker,8,1104.12,320.78,0.22,2024,April
+ORD00828,2023-06-04,Scott Brown,West,Rajasthan,Furniture,Table,1,2635.23,371.75,0.04,2023,June
+ORD00829,2024-02-27,David Martin,West,Gujarat,Office Supplies,Stapler,6,4307.92,1196.67,0.19,2024,February
+ORD00830,2023-01-29,Andrew Ferguson,South,Tamil Nadu,Furniture,Sofa,10,1218.84,133.61,0.04,2023,January
+ORD00831,2023-07-26,Kiara Brooks,West,Gujarat,Technology,Tablet,9,4956.9,770.82,0.27,2023,July
+ORD00832,2024-10-21,Alexis Simmons,South,Karnataka,Technology,Tablet,5,3958.87,472.86,0.17,2024,October
+ORD00833,2024-02-21,James Hill,North,Delhi,Technology,Printer,2,1603.83,199.67,0.02,2024,February
+ORD00834,2023-05-04,Darren Bautista,West,Rajasthan,Furniture,Chair,3,1218.4,234.84,0.15,2023,May
+ORD00835,2023-12-04,Lisa Burke,East,Odisha,Office Supplies,Marker,2,1228.48,98.98,0.24,2023,December
+ORD00836,2024-03-26,Jeremy Gordon,South,Tamil Nadu,Office Supplies,Paper,4,764.18,71.67,0.29,2024,March
+ORD00837,2024-03-09,Melanie Schaefer,North,Punjab,Furniture,Sofa,9,1904.79,547.01,0.09,2024,March
+ORD00838,2024-10-22,Joshua Thomas,East,West Bengal,Furniture,Desk,6,2402.35,340.98,0.09,2024,October
+ORD00839,2024-12-18,Jeremy Stephenson,North,Haryana,Office Supplies,Pen,4,1302.27,190.36,0.19,2024,December
+ORD00840,2023-09-19,Aaron May,South,Tamil Nadu,Furniture,Chair,7,88.94,25.81,0.28,2023,September
+ORD00841,2023-11-21,Lisa Elliott,South,Tamil Nadu,Furniture,Chair,4,4304.11,387.61,0.13,2023,November
+ORD00842,2024-02-27,George Serrano,North,Punjab,Office Supplies,Paper,2,4124.83,1176.09,0.14,2024,February
+ORD00843,2024-07-14,Jamie Jones,North,Delhi,Furniture,Bookcase,5,2556.36,352.69,0.18,2024,July
+ORD00844,2024-03-30,Shelia Richard,West,Rajasthan,Office Supplies,Stapler,1,3821.78,803.89,0.06,2024,March
+ORD00845,2023-06-11,Elizabeth Walter,North,Punjab,Office Supplies,Notebook,4,3160.07,405.85,0.02,2023,June
+ORD00846,2023-05-17,Gary Werner,South,Kerala,Technology,Monitor,7,3973.58,515.97,0.14,2023,May
+ORD00847,2024-01-22,Cody Lawson,East,Odisha,Furniture,Desk,4,467.77,66.38,0.12,2024,January
+ORD00848,2024-04-18,Gary Gomez,North,Delhi,Office Supplies,Notebook,9,3253.18,672.29,0.27,2024,April
+ORD00849,2024-01-12,Carly Barton,South,Karnataka,Technology,Tablet,7,3109.12,622.13,0.04,2024,January
+ORD00850,2024-11-20,Joseph Pittman,North,Delhi,Technology,Monitor,9,2204.04,617.13,0.14,2024,November
+ORD00851,2023-10-22,Sarah Bradley,South,Kerala,Furniture,Chair,4,993.19,263.68,0.23,2023,October
+ORD00852,2023-10-17,Robyn Thompson,West,Maharashtra,Office Supplies,Paper,7,4288.87,857.86,0.3,2023,October
+ORD00853,2023-08-30,Michael Coleman,West,Maharashtra,Office Supplies,Notebook,7,3972.69,227.21,0.29,2023,August
+ORD00854,2023-05-17,Daniel Bell,South,Tamil Nadu,Office Supplies,Paper,10,3437.12,565.55,0.0,2023,May
+ORD00855,2023-04-08,Tony Collins,South,Kerala,Furniture,Bookcase,7,3556.84,832.39,0.08,2023,April
+ORD00856,2024-11-17,Megan Hernandez,North,Punjab,Office Supplies,Pen,4,2381.12,329.96,0.18,2024,November
+ORD00857,2024-01-15,Pamela Thomas,North,Punjab,Office Supplies,Pen,9,3117.31,391.62,0.12,2024,January
+ORD00858,2024-04-24,Rachel Price,North,Haryana,Technology,Monitor,3,1338.44,235.48,0.28,2024,April
+ORD00859,2023-05-11,Penny Moran,East,Bihar,Technology,Laptop,9,2193.0,252.42,0.09,2023,May
+ORD00860,2023-09-28,Jonathan Stevens,East,Odisha,Furniture,Sofa,5,4518.82,523.3,0.25,2023,September
+ORD00861,2024-07-23,Hannah Robertson DDS,West,Maharashtra,Office Supplies,Stapler,6,3697.5,639.0,0.29,2024,July
+ORD00862,2023-06-17,Dr. Joel Hunt,North,Delhi,Office Supplies,Paper,3,320.11,30.66,0.14,2023,June
+ORD00863,2024-05-11,Katie Williams,West,Maharashtra,Office Supplies,Paper,8,251.92,35.05,0.21,2024,May
+ORD00864,2023-07-04,Brenda Hancock,North,Haryana,Furniture,Bookcase,3,662.09,48.59,0.26,2023,July
+ORD00865,2024-08-07,Donna Gentry,East,Bihar,Technology,Monitor,10,1101.36,329.86,0.0,2024,August
+ORD00866,2024-11-28,Jesse Baird,North,Delhi,Technology,Printer,8,3400.7,924.45,0.01,2024,November
+ORD00867,2023-01-30,Sarah Sullivan,West,Gujarat,Office Supplies,Pen,10,4649.28,355.75,0.1,2023,January
+ORD00868,2024-11-02,Jonathan Tyler,West,Gujarat,Technology,Printer,5,2991.31,153.91,0.29,2024,November
+ORD00869,2023-10-17,Brandon Mccarthy,East,Bihar,Office Supplies,Paper,10,690.13,183.45,0.24,2023,October
+ORD00870,2024-02-13,Jason Cohen,North,Haryana,Furniture,Chair,10,1937.89,290.13,0.05,2024,February
+ORD00871,2024-10-31,Chad Olson,South,Karnataka,Technology,Laptop,7,3908.49,473.84,0.23,2024,October
+ORD00872,2024-09-09,Sheryl Bautista,East,Odisha,Technology,Laptop,7,3692.65,1035.51,0.27,2024,September
+ORD00873,2023-10-02,Monica Pierce,North,Punjab,Technology,Tablet,9,1039.36,167.71,0.12,2023,October
+ORD00874,2024-03-12,William Sloan,West,Maharashtra,Office Supplies,Marker,7,4064.42,826.98,0.13,2024,March
+ORD00875,2024-06-23,Todd Bolton,East,Odisha,Technology,Laptop,4,3255.67,743.62,0.28,2024,June
+ORD00876,2023-06-02,Reginald Henry,North,Punjab,Office Supplies,Marker,8,2214.91,613.09,0.14,2023,June
+ORD00877,2023-02-16,Daniel Jackson,South,Kerala,Technology,Tablet,7,1512.63,93.68,0.02,2023,February
+ORD00878,2023-12-30,Brendan Andrews,West,Gujarat,Office Supplies,Pen,2,2350.05,540.69,0.24,2023,December
+ORD00879,2023-07-06,Steven Romero,North,Haryana,Furniture,Table,1,613.98,132.25,0.05,2023,July
+ORD00880,2024-04-05,Tim Lawson,North,Punjab,Furniture,Chair,5,1604.03,370.57,0.23,2024,April
+ORD00881,2024-11-20,Andrea Montgomery,East,West Bengal,Office Supplies,Stapler,4,966.18,228.75,0.18,2024,November
+ORD00882,2024-12-09,Sharon Parker,North,Delhi,Technology,Printer,7,627.56,58.32,0.14,2024,December
+ORD00883,2024-12-07,Sarah Boyd,West,Gujarat,Furniture,Table,10,4075.01,832.06,0.21,2024,December
+ORD00884,2024-12-13,Mrs. Michelle Jones,East,West Bengal,Office Supplies,Paper,3,718.81,70.23,0.24,2024,December
+ORD00885,2024-07-05,Emily Cooley,South,Tamil Nadu,Technology,Laptop,3,3266.21,519.15,0.19,2024,July
+ORD00886,2023-06-06,Sean Williams,East,Odisha,Technology,Laptop,3,2396.25,132.88,0.05,2023,June
+ORD00887,2024-08-06,Jillian Smith,West,Gujarat,Office Supplies,Paper,1,4305.99,845.29,0.06,2024,August
+ORD00888,2024-05-22,Ronald Joseph,East,West Bengal,Furniture,Chair,2,3170.53,723.75,0.29,2024,May
+ORD00889,2024-11-25,Jacob Martinez,East,West Bengal,Office Supplies,Marker,8,2028.42,361.75,0.22,2024,November
+ORD00890,2024-10-25,Erik Wolfe,North,Haryana,Furniture,Desk,1,2138.92,275.84,0.02,2024,October
+ORD00891,2023-01-22,Kenneth Howard,North,Punjab,Furniture,Bookcase,10,4697.87,642.16,0.21,2023,January
+ORD00892,2024-12-02,Candice Howell,South,Tamil Nadu,Technology,Tablet,6,2218.65,392.5,0.18,2024,December
+ORD00893,2024-11-20,Michael Hill,West,Maharashtra,Furniture,Table,5,3628.83,535.59,0.13,2024,November
+ORD00894,2024-05-09,Amanda Peterson,West,Maharashtra,Office Supplies,Stapler,10,1075.68,239.53,0.03,2024,May
+ORD00895,2024-05-20,Ruth Ramirez,South,Karnataka,Technology,Smartphone,10,2486.32,617.53,0.28,2024,May
+ORD00896,2024-11-24,Isaac Taylor,South,Kerala,Furniture,Desk,1,4996.34,697.97,0.08,2024,November
+ORD00897,2023-08-18,Douglas Sullivan,North,Delhi,Technology,Smartphone,6,2181.57,445.89,0.04,2023,August
+ORD00898,2024-12-07,James Delgado,East,Odisha,Furniture,Sofa,1,3861.97,730.9,0.27,2024,December
+ORD00899,2023-04-24,Veronica Hamilton,North,Haryana,Office Supplies,Marker,1,4636.83,739.37,0.14,2023,April
+ORD00900,2023-07-30,Dr. Lori Nguyen DDS,North,Haryana,Technology,Monitor,1,2561.16,235.02,0.04,2023,July
+ORD00901,2023-06-07,Bobby Norris,East,Bihar,Furniture,Desk,8,3821.73,667.27,0.26,2023,June
+ORD00902,2023-01-07,David Martinez,East,West Bengal,Office Supplies,Stapler,2,4250.55,679.14,0.12,2023,January
+ORD00903,2024-02-29,Joseph Gonzalez,East,Odisha,Technology,Printer,9,897.75,104.59,0.21,2024,February
+ORD00904,2024-02-24,James Riley,South,Kerala,Furniture,Desk,7,3946.72,333.49,0.13,2024,February
+ORD00905,2023-03-13,Jeremy Mclaughlin,East,West Bengal,Furniture,Table,8,770.64,40.45,0.24,2023,March
+ORD00906,2024-10-18,Timothy Watkins,East,Odisha,Technology,Tablet,3,2198.66,326.1,0.01,2024,October
+ORD00907,2024-12-18,Becky Medina,North,Haryana,Technology,Monitor,9,4864.67,753.18,0.27,2024,December
+ORD00908,2023-05-31,Kevin Brooks,East,Odisha,Office Supplies,Stapler,1,4143.67,1139.73,0.18,2023,May
+ORD00909,2024-03-28,Zachary Vargas,West,Rajasthan,Office Supplies,Paper,4,4443.52,915.76,0.19,2024,March
+ORD00910,2023-05-10,William Hansen,West,Maharashtra,Office Supplies,Stapler,5,467.19,86.13,0.12,2023,May
+ORD00911,2024-10-12,Mark Hood,East,West Bengal,Office Supplies,Marker,2,2582.77,330.76,0.1,2024,October
+ORD00912,2024-03-08,Michelle Johnson,North,Haryana,Technology,Laptop,10,1330.52,343.35,0.09,2024,March
+ORD00913,2024-10-28,Martin Stanley,North,Punjab,Office Supplies,Pen,5,3153.6,437.15,0.01,2024,October
+ORD00914,2024-08-18,Mary Sullivan,East,Bihar,Technology,Printer,1,2293.08,678.15,0.24,2024,August
+ORD00915,2024-11-19,Erik Hansen,South,Tamil Nadu,Office Supplies,Marker,5,1458.45,359.07,0.21,2024,November
+ORD00916,2024-04-10,Bruce Padilla,South,Karnataka,Technology,Printer,6,2606.44,255.79,0.23,2024,April
+ORD00917,2023-08-08,Victoria Rosales,West,Gujarat,Technology,Smartphone,2,506.63,79.15,0.04,2023,August
+ORD00918,2023-09-28,Tiffany Coleman,East,Bihar,Furniture,Chair,9,2043.63,387.76,0.23,2023,September
+ORD00919,2024-06-01,Antonio Adams,West,Gujarat,Office Supplies,Paper,8,3672.0,566.33,0.05,2024,June
+ORD00920,2024-04-29,Donna Shelton,West,Maharashtra,Technology,Printer,9,4323.19,343.76,0.06,2024,April
+ORD00921,2023-10-24,Mallory White,East,West Bengal,Technology,Smartphone,10,4268.97,331.2,0.11,2023,October
+ORD00922,2023-01-29,Ashley Pratt,South,Karnataka,Technology,Monitor,6,1559.38,223.95,0.09,2023,January
+ORD00923,2024-05-15,Rebecca Schaefer,West,Maharashtra,Technology,Smartphone,5,4450.83,462.42,0.25,2024,May
+ORD00924,2023-12-12,Julie Newman,East,West Bengal,Technology,Laptop,1,2117.0,409.14,0.17,2023,December
+ORD00925,2023-06-02,Michael Lucas,South,Karnataka,Furniture,Bookcase,9,3200.48,769.46,0.2,2023,June
+ORD00926,2024-07-07,Malik Rodriguez,North,Haryana,Office Supplies,Stapler,10,2077.66,224.81,0.12,2024,July
+ORD00927,2024-12-25,Darren Gray,East,Bihar,Technology,Printer,2,4336.47,983.52,0.17,2024,December
+ORD00928,2023-02-24,Sarah Anderson,North,Haryana,Furniture,Table,9,471.5,136.17,0.16,2023,February
+ORD00929,2023-07-04,Robert Sexton,South,Tamil Nadu,Office Supplies,Marker,9,4489.48,359.48,0.28,2023,July
+ORD00930,2024-02-16,Brian Perry,South,Karnataka,Technology,Tablet,10,2248.94,566.13,0.18,2024,February
+ORD00931,2023-11-21,Michael Randall,West,Maharashtra,Office Supplies,Pen,6,2213.24,340.25,0.26,2023,November
+ORD00932,2023-04-02,Connie Arellano,North,Delhi,Furniture,Sofa,2,2731.81,331.47,0.05,2023,April
+ORD00933,2024-12-31,Michael Strong,West,Rajasthan,Technology,Tablet,3,341.62,99.17,0.05,2024,December
+ORD00934,2023-05-04,Maria Ayala,West,Maharashtra,Technology,Tablet,6,755.18,206.36,0.08,2023,May
+ORD00935,2023-04-28,Steven Stanley,South,Kerala,Technology,Smartphone,10,1220.63,216.24,0.15,2023,April
+ORD00936,2023-08-28,Nicolas Taylor,East,Odisha,Furniture,Chair,9,2065.03,353.21,0.12,2023,August
+ORD00937,2024-04-01,Charles Campos,North,Delhi,Technology,Tablet,9,3275.18,266.58,0.17,2024,April
+ORD00938,2024-03-09,Tammy Richmond,South,Karnataka,Technology,Monitor,6,2725.18,250.84,0.07,2024,March
+ORD00939,2023-06-21,Kara Ayers,North,Delhi,Office Supplies,Paper,8,4807.52,986.42,0.2,2023,June
+ORD00940,2024-10-09,Eric Mueller,West,Gujarat,Technology,Laptop,10,1291.9,284.22,0.3,2024,October
+ORD00941,2024-02-09,Helen Hall MD,East,West Bengal,Technology,Monitor,3,3708.96,707.56,0.09,2024,February
+ORD00942,2024-05-31,Andre Fisher,South,Kerala,Office Supplies,Pen,9,4994.17,1346.28,0.06,2024,May
+ORD00943,2023-08-04,Jamie Lee,East,Bihar,Furniture,Sofa,8,1401.42,302.1,0.1,2023,August
+ORD00944,2023-01-10,Robin Suarez,East,West Bengal,Furniture,Table,3,3249.89,164.16,0.14,2023,January
+ORD00945,2024-10-26,Matthew Bennett,West,Rajasthan,Office Supplies,Notebook,8,3824.2,705.69,0.24,2024,October
+ORD00946,2024-09-07,Sean Floyd,North,Haryana,Office Supplies,Pen,8,3377.62,466.95,0.24,2024,September
+ORD00947,2023-01-10,Linda Salazar,South,Kerala,Furniture,Bookcase,1,667.58,95.21,0.06,2023,January
+ORD00948,2023-08-15,Robert Lloyd,East,Bihar,Technology,Laptop,6,997.98,253.56,0.19,2023,August
+ORD00949,2023-01-08,Alyssa Huffman,East,West Bengal,Technology,Printer,5,2489.55,562.67,0.18,2023,January
+ORD00950,2024-08-02,Timothy Andrade,North,Punjab,Technology,Printer,10,2526.61,234.01,0.06,2024,August
+ORD00951,2024-08-06,Troy Nguyen,South,Karnataka,Office Supplies,Marker,10,684.82,45.38,0.08,2024,August
+ORD00952,2023-09-16,Nicholas Turner,East,West Bengal,Technology,Monitor,1,4960.16,1107.34,0.16,2023,September
+ORD00953,2023-11-27,Gary Reyes,West,Maharashtra,Office Supplies,Marker,7,3222.78,920.97,0.02,2023,November
+ORD00954,2023-08-18,Jennifer Sanders,East,West Bengal,Furniture,Bookcase,9,2359.6,331.21,0.23,2023,August
+ORD00955,2024-08-08,Mrs. Cindy Cochran,West,Rajasthan,Technology,Tablet,8,1615.4,239.02,0.1,2024,August
+ORD00956,2024-10-02,Tony Gibson,West,Maharashtra,Technology,Smartphone,4,1024.54,135.55,0.02,2024,October
+ORD00957,2023-09-14,Tina Holland,West,Gujarat,Technology,Laptop,1,2983.03,616.22,0.1,2023,September
+ORD00958,2023-08-31,Robert Huff,West,Maharashtra,Technology,Laptop,6,4170.96,1065.3,0.16,2023,August
+ORD00959,2023-02-04,Susan Garcia,West,Maharashtra,Technology,Monitor,8,2915.73,208.14,0.02,2023,February
+ORD00960,2024-10-03,Brandon Williams,North,Delhi,Furniture,Sofa,1,4599.62,738.15,0.09,2024,October
+ORD00961,2023-04-09,Ashley Moore,North,Haryana,Furniture,Chair,1,2818.33,348.71,0.11,2023,April
+ORD00962,2024-09-27,Tricia Thompson,South,Kerala,Office Supplies,Paper,10,102.5,14.96,0.24,2024,September
+ORD00963,2023-04-16,Sara Weaver,East,Bihar,Office Supplies,Pen,1,2297.68,303.41,0.06,2023,April
+ORD00964,2023-12-30,Sara Bennett,North,Haryana,Technology,Monitor,4,4526.63,368.9,0.15,2023,December
+ORD00965,2024-08-21,Robert Robinson,West,Maharashtra,Furniture,Bookcase,4,731.48,44.63,0.04,2024,August
+ORD00966,2023-11-13,Deborah Willis,East,Odisha,Furniture,Table,10,4431.85,1080.81,0.04,2023,November
+ORD00967,2023-09-01,Natalie Landry,East,Odisha,Office Supplies,Stapler,1,2612.52,560.17,0.04,2023,September
+ORD00968,2023-03-12,Connor Ramos,North,Punjab,Office Supplies,Marker,6,1017.27,101.82,0.27,2023,March
+ORD00969,2023-12-10,Jacob Rangel,West,Rajasthan,Furniture,Desk,8,3018.82,400.86,0.17,2023,December
+ORD00970,2024-05-22,Michele Bailey,West,Gujarat,Office Supplies,Stapler,3,569.0,153.08,0.27,2024,May
+ORD00971,2023-12-06,Stephanie Lutz,South,Kerala,Technology,Laptop,4,2359.36,243.69,0.14,2023,December
+ORD00972,2024-01-02,Terry Jackson,South,Tamil Nadu,Office Supplies,Paper,3,4139.12,213.92,0.0,2024,January
+ORD00973,2024-01-04,Cory Silva,North,Delhi,Technology,Monitor,5,2230.02,463.47,0.27,2024,January
+ORD00974,2023-12-14,Michael Rose,South,Karnataka,Technology,Laptop,5,912.03,247.48,0.22,2023,December
+ORD00975,2024-11-24,Billy Jones,South,Karnataka,Office Supplies,Notebook,1,921.58,106.39,0.03,2024,November
+ORD00976,2024-11-07,Nicole Crawford,North,Punjab,Technology,Printer,4,1560.11,171.67,0.24,2024,November
+ORD00977,2023-07-14,Leah Garza,West,Rajasthan,Technology,Monitor,2,636.54,172.3,0.04,2023,July
+ORD00978,2023-02-17,Carrie Nunez,West,Rajasthan,Technology,Monitor,6,1623.86,255.57,0.19,2023,February
+ORD00979,2023-10-14,Joseph Hernandez,South,Kerala,Office Supplies,Marker,5,3958.46,522.2,0.02,2023,October
+ORD00980,2023-06-21,Christopher Morris,West,Maharashtra,Technology,Monitor,2,3934.09,974.67,0.18,2023,June
+ORD00981,2024-12-12,Thomas Brown,East,Odisha,Office Supplies,Paper,9,2348.12,306.33,0.11,2024,December
+ORD00982,2023-02-07,Melissa Rios,West,Gujarat,Furniture,Bookcase,10,2034.68,570.31,0.18,2023,February
+ORD00983,2024-08-08,Helen Morgan,South,Tamil Nadu,Technology,Smartphone,4,2009.7,254.23,0.27,2024,August
+ORD00984,2023-12-27,Melinda Crawford,East,Bihar,Technology,Tablet,2,714.94,50.77,0.13,2023,December
+ORD00985,2024-02-23,Drew Williams,North,Punjab,Technology,Monitor,9,3124.57,489.08,0.14,2024,February
+ORD00986,2023-03-19,Anna Williams,East,Odisha,Furniture,Bookcase,7,172.36,27.65,0.08,2023,March
+ORD00987,2023-08-22,William Wright,East,Bihar,Furniture,Chair,9,2755.93,191.65,0.08,2023,August
+ORD00988,2023-09-14,David Salazar,North,Punjab,Technology,Laptop,1,2752.83,367.34,0.2,2023,September
+ORD00989,2024-07-10,Chris Zavala,South,Kerala,Furniture,Sofa,10,4990.08,1495.03,0.23,2024,July
+ORD00990,2024-08-16,Ryan Murray,East,Odisha,Furniture,Chair,6,3926.48,592.71,0.12,2024,August
+ORD00991,2023-08-22,Susan Williams,West,Rajasthan,Office Supplies,Pen,9,4946.91,1424.08,0.26,2023,August
+ORD00992,2024-04-17,Megan Green,West,Maharashtra,Technology,Smartphone,9,2955.67,556.12,0.14,2024,April
+ORD00993,2024-04-05,Tanya Smith,East,West Bengal,Furniture,Chair,7,3862.15,867.0,0.06,2024,April
+ORD00994,2024-05-26,Daniel Morales,East,West Bengal,Office Supplies,Pen,10,4375.06,552.98,0.22,2024,May
+ORD00995,2024-12-08,Tanya Potter,East,West Bengal,Office Supplies,Stapler,7,2157.31,513.78,0.23,2024,December
+ORD00996,2023-12-05,Shane Novak,East,Bihar,Office Supplies,Stapler,1,2859.51,166.0,0.04,2023,December
+ORD00997,2024-05-01,Ellen Coleman,West,Gujarat,Office Supplies,Marker,4,4746.03,312.89,0.12,2024,May
+ORD00998,2023-02-02,James Curtis,West,Rajasthan,Technology,Tablet,5,511.55,38.92,0.17,2023,February
+ORD00999,2023-07-30,Amy Watts,West,Maharashtra,Office Supplies,Marker,3,1035.04,287.57,0.12,2023,July
+ORD01000,2024-02-25,James Nelson,North,Punjab,Technology,Tablet,1,1874.83,98.92,0.1,2024,February
